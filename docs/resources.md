@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 7
 ---
 
-## Learn more
+## Learn more here
 
 * [M Community](https://discord.gg/h7ke59TwgS)
 * [Tinedpakgamer's Twitter](https://twitter.com/tinedpakgamer)
