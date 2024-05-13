@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home - MCBEDOC
+title: Home
 nav_order: 1
 description: "MCBEDOC - An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers"
 permalink: /
