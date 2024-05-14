@@ -106,10 +106,9 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  - name: "GitHub"
-    url: "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
-    icon: "fab fa-github fa-inverse"
+  "<i class='fab fa-github fa-inverse'></i>":
     - "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
+      icon: true
   "OpenMicrosoft Project website":
     - "https://openm.tech/"
 
