@@ -122,10 +122,11 @@ nav_enabled: true
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
-# External navigation links
-# nav_external_links:
-#  - title: MCBEDOC on GitHub
-#    url: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
+ External navigation links
+ nav_external_links:
+  - title: MCBEDOC on GitHub
+    url: "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
+    icon: "/path/to/icon.png"
 
 liquid:
    error_mode: strict
