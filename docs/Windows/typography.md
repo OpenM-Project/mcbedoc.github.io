@@ -1,7 +1,7 @@
----
+á---
 layout: default
 title: Typography
-parent: UI Components
+parent: Windows
 nav_order: 1
 ---
 

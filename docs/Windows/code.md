@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: Windows
 has_children: true
 nav_order: 6
 ---

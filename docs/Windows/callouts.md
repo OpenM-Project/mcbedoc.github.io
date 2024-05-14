@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Callouts
-parent: UI Components
+parent: Windows
 nav_order: 7
 ---
 
