@@ -7,7 +7,7 @@ nav_order: 2
 # The story of MCBE unlockers
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+The detaild story of cracking Minecraft: Windows 10 Edition
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,321 +18,48 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
-
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-
-## Site favicon
-
-```yaml
-# Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/assets/images/favicon.ico"
-```
-
-If the path to your favicon is `/favicon.ico`, you can leave `favicon_ico` unset.
-
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
-  focus_shortcut_key: 'k'
-```
-
-## Mermaid Diagrams
-{: .d-inline-block }
-
-New (v0.4.0)
-{: .label .label-green }
-
-The minimum configuration requires the key for `version` ([from jsDelivr](https://cdn.jsdelivr.net/npm/mermaid/)) in `_config.yml`:
-
-```yaml
-mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.3"
-```
-
-Provide a `path` instead of a `version` key to load the mermaid library from a local file.
-
-
-
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
-
-## Navigation sidebar
-
-```yaml
-# Enable or disable the side/mobile menu globally
-# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
-nav_enabled: true
-```
-
-## Heading anchor links
-
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
-
-## External navigation links
-{: .d-inline-block }
 
-New (v0.4.0)
-{: .label .label-green }
-
-External links can be added to the navigation through the `nav_external_links` option.
-See [Navigation Structure]({% link docs/navigation-structure.md %}#external-navigation-links) for more details.
-
-## Footer content
+> When Minecraft: Windows 10 Edition was released, people started to look for ways to play the game for free *(as usual)*. The game had a trial version which was limited and you could only play for 60 minutes in a world.
+>
+> Then, people started to notice that the paid version and the trial version was the exact same app! So, efforts started to try to unlock the game, and here we are today.
 
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
-
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
+### The Beginning, M Centers & online-fix\.me
+* The First trick, discovered by tinedpakgamer, is the **ClipSVC Method**. With some registry code, you could force stop ClipSVC and prevent it from running in the background. After that, when you start Minecraft, it would buffer at 46% which you would then go and force stop Runtime Broker under Minecraft in Task Manager. And this worked! This was then packed into a program named M Centers by the discoverer. But, this method was the opposite of safe, as it breaks MS Store completely and on 10th October 2022, it got patched by Microsoft Sanity/Subscription Check Update.
 
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
-
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `main`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+* Then came along a permanent method, the **DLL Replacing**. By replacing `Windows.ApplicationModel.Store.dll` with *Cracked DLLs* and making it say the game was licensed, Minecraft was able to be unlocked! This was the method used by Tinedpakgamer in M Centers, released as version 3.0 *(2.0 was a sentry launcher using precracked appx. It failed and got scraped)*. After M Centers 3.0 became commonly used, M Centers 3.3 was released which did the same thing, but fixed a bug in the previous version.
 
-## Color scheme
+* In 2021, online-fix\.me *(a well-known Russian site)* released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added **Appx Download** and discarded some in-development methods like, *DLL RAM Patch*, *Store Purchase Crack* using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used **In-Memory Code Manipulation** without the need of any DLLs. This version also had a UWP app but it was tricky to install *(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)*. M Centers 6.0 was released, but it was just a re-made UI for the exact same app *(it was intended to provide auto-patching DLLs, but it was never done).
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
+---
 
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+### The End of M Centers & The Rise of M Community
+* After some time of the releases, Tinedpakgamer announced the end of M Centers, and started slowly deleting everything related to him. The speculated reason for this was an DMCA takedown, but this was never confirmed. 
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+* While M Centers was slowly shutting down, a user named SOMEONE#1060 created a server named "M Community" and shared it through a major chunk of users on the M Centers server. his server, M Community, was the unofficial revival and archive of M Centers. As this server got increasingly popular, Tinedpakgamer found out about it then proceeded to delete the invitation message. But it was too late, and most of the stuff was archived and lots of users were in the server already. M Centers eventually deleted the Discord server, leaving no trace of it. 
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+* Later, a video titled something along the lines of "How to get MCBE for free" blew up. This video had linked the M Community server, which caused it to get lots of members. This soon led to M Centers joining the server and uploading M Centers 7.0 *(also known as Akshnav Launcher)* which also used *In-Memory Code Manipulation]. But this method had some issues.
 
-See [Customization]({% link docs/customization.md %}) for more information.
+* It was basically closed-source, it got frequently flagged by AV software as a virus, and you had to open the app and launch Minecraft that way to make it work. It also didn't work with all versions of Minecraft or Windows, so it was basically just a mess which got some people upset, and some left. Then there was a new player in the game.
 
-## Callouts
-{: .d-inline-block }
+---
 
-New (v0.4.0)
-{: .label .label-green }
+### The New Beginning of the OpenM Project
 
-To use this feature, you need to configure a `color` and (optionally) `title` for each kind of callout you want to use, e.g.:
-
-```yaml
-callouts:
-  warning:
-    title: Warning
-    color: red
-```
-
-This uses the color `$red-000` for the background of the callout, and `$red-300` for the title and box decoration.[^dark] You can then style a paragraph as a `warning` callout like this:
-
-```markdown
-{: .warning }
-A paragraph...
-```
-
-[^dark]:
-    If you use the `dark` color scheme, this callout uses `$red-300` for the background, and `$red-000` for the title.
-
-The colors `grey-lt`, `grey-dk`, `purple`, `blue`, `green`, `yellow`, and `red` are predefined; to use a custom color, you need to define its `000` and `300` levels in your SCSS files. For example, to use `pink`, add the following to your `_sass/custom/setup.scss` file:
-
-```scss
-$pink-000: #f77ef1;
-$pink-100: #f967f1;
-$pink-200: #e94ee1;
-$pink-300: #dd2cd4;
-```
-
-You can override the default `opacity` of the background for a particular callout, e.g.:
-
-```yaml
-callouts:
-  custom:
-    color: pink
-    opacity: 0.3
-```
-
-You can change the default opacity (`0.2`) for all callouts, e.g.:
-
-```yaml
-callouts_opacity: 0.3
-```
-
-You can also adjust the overall level of callouts.
-The value of `callouts_level` is either `quiet` or `loud`;
-`loud` increases the saturation and lightness of the backgrounds.
-The default level is `quiet` when using the `light` or custom color schemes,
-and `loud` when using the `dark color scheme.`
-
-## Google Analytics
-
-{: .warning }
-> [Google Analytics 4 will replace Universal Analytics](https://support.google.com/analytics/answer/11583528). On **July 1, 2023**, standard Universal Analytics properties will stop processing new hits. The earlier you migrate, the more historical data and insights you will have in Google Analytics 4.
-
-Universal Analytics (UA) and Google Analytics 4 (GA4) properties are supported.
-
-```yaml
-# Google Analytics Tracking (optional)
-# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
-ga_tracking: UA-2709176-10
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-```
-
-### Multiple IDs
-{: .d-inline-block .no_toc }
-
-New (v0.4.0)
-{: .label .label-green }
-
-This theme supports multiple comma-separated tracking IDs. This helps seamlessly transition UA properties to GA4 properties by tracking both for a while.
-
-```yaml
-ga_tracking: "UA-1234567-89,G-1AB234CDE5"
-```
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-You can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-{: .warning }
-> Collection folders always start with an underscore (`_`), e.g. `_tests`. You won't see your collections if you omit the prefix.
-
-For example, put all your test files in the `_tests` folder and create the `tests` collection:
-
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "tests", its documents reside in the "_tests" directory
-  tests:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "tests" collection
-    tests:
-      # Give the collection a name
-      name: Tests
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      # nav_exclude: true
-      # Fold the collection in the navigation
-      # Supports true or false (default)
-      # nav_fold: true  # note: this option is new in v0.4
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      # search_exclude: true
-```
-
-The navigation for all your normal pages (if any) is displayed before those in collections.
-
-<span>New (v0.4.0)</span>{: .label .label-green }
-Including `nav_fold: true` in a collection configuration *folds* that collection:
-an expander symbol appears next to the collection name,
-and clicking it displays/hides the links to the top-level pages of the collection.[^js-disabled]
-
-[^js-disabled]: <span>New (v0.6.0)</span>{: .label .label-green }
-    When JavaScript is disabled in the browser, all folded collections are automatically expanded,
-    since clicking expander symbols has no effect.
-    (In previous releases, navigation into folded collections required JavaScript to be enabled.)
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-
-```yaml
-collections:
-  tests:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    tests:
-      name: Tests
-    tutorials:
-      name: Tutorials
-```
-
-When *all* your pages are in a single collection, its name is not displayed.
-
-The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page.
+* Developers in M Community started work on decompiling Akshnav, cleaning it up and the sorts. This led nowhere in the end, but it was still a helpful resource to get an idea of how it was done. This work was done under M Community-Development.
+
+* And then some staff members and developers created a new server named "OpenM Community", and therefore the OpenM Project. They started work on `librosewater`, which was a process memory manipulation library written in pure Python.
+
+* This hinted at their next release, `BEAMinject` which was a fast and secure unlocker using **DLL Memory Manipulatoion** for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
+  - It *was* the only maintained and currently working tool that was open-source
+  - It worked with all kinds of Minecraft and Windows versions
+  - It natively supported ARM devices
+  - It had a silent executable which allowed users to just create a nice-looking shortcut
+  - It didn't permanently modify system files and didn't have any prebuilt DLLs
+
+### The Demise of OpenM and Rebirth of M Centers 
+
+* OpenM has been aborted, as soyeonswife63 retired on OpenM to begin a new individual project. The rest Mods/Admins deleted OpenM and set sail to M Community, as they have merged with them. 
+
+* Since MCenter's discontinuation, tinedpakgamer has become silent ever since, except in Twitter. But, as of 1st May 2024, he joined M Community and announced that he was working on MCenters 8.0, so, MCenters prevail!
+
+* First, tinedpakgamer revived the [Youtube Channel](https://www.youtube.com/channel/UCM1jM7NWXvt8roj8mzMvhfw). He then created the [Discord Server](https://dsc.gg/mcenters) in which, on 8th May 2024, officially released MCenters 4.5 [The base code of MCenters 8.0]. It uses DLL Replacing, just like 4.0, but used .NET Framework replacing .NET Core, in which removes the requirement of .NET Runtime in your device. It also has an x86 version, but mainly it adds a *secret function*. The program can also be used with other UWP applications. 
