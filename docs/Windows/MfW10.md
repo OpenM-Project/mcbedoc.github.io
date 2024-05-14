@@ -32,7 +32,7 @@ Minecraft Launch Script|[GitHub](https://github.com/Sahil12524/Minecraft-Launch-
 Minecraft_For_Win10_Crack|[GitHub](https://github.com/zhicheng233/Minecraft_For_Win10_Crack/releases/download/MCBECrack2.41/Minecraft_For_Win10_Crack.exe)|[GitHub](https://github.com/zhicheng233/Minecraft_For_Win10_Crack)|No|DLL Replacing
 Minecraft_Memory_Bypass_GUI|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI/releases/download/V1.4.0.0/Minecraft.Memory.Bypass.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI)|No|**DMM**
 Minecraft-Activator|[GitHub](https://github.com/Ambassador4ik/Minecraft-Activator/archive/refs/heads/main.zip)|[GitHub](https://github.com/Ambassador4ik/Minecraft-Activator)|No|DLL Replacing
-Minecraft-Unlock|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock/releases/download/V2.3.0.0/Minecraft.Unlock.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock)|No|  DLL Replacing
+Minecraft-Unlock|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock/releases/download/V2.3.0.0/Minecraft.Unlock.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock)|No|DLL Replacing
 PATCHER - CODEX|[PixelDrain](https://pixeldrain.com/u/DzjhErdB)|Closed-source|No|Patching MC’s files
 BLauncher|[GitHub](https://github.com/imsaku/blauncher/archive/refs/heads/main.zip)|[GitHub](https://github.com/imsaku/blauncher)|No|ClipSVC
 ClickGoLTS|[GitHub](https://github.com/FishiaT/ClickGoLTS/archive/refs/heads/main.zip)|[GitHub](https://github.com/FishiaT/ClickGoLTS)|No|ClipSVC
