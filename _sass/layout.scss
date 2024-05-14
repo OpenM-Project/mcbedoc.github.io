@@ -221,3 +221,12 @@ body {
   height: $sp-5;
   color: $link-color;
 }
+
+.aux-link {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.aux-link i {
+  margin-right: 5px;
+}
