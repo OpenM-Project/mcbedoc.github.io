@@ -16,7 +16,7 @@ An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 [View it on GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-# Getting started
+
 {: .warning }
 > We don't directly advocate for piracy, this is for preservation and educational purposes only.
 
