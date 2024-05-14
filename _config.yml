@@ -93,7 +93,7 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
-  # See also docs/ui-components/code
+  # See also docs/Windows/code
   # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
   # for (v10+):
   # path: "/assets/js/mermaid.esm.min.mjs"

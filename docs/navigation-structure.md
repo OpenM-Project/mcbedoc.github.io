@@ -75,14 +75,14 @@ Pages with no `title` are automatically excluded from the main navigation.
 
 ## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/Windows` and `./docs/Android`. This gives us an organization like:
 
 ```
 +-- ..
 |-- (Jekyll files)
 |
 |-- docs
-|   |-- ui-components
+|   |-- Windows
 |   |   |-- index.md  (parent page)
 |   |   |-- buttons.md
 |   |   |-- code.md
@@ -90,7 +90,7 @@ Sometimes you will want to create a page with many children (a section). First, 
 |   |   |-- tables.md
 |   |   +-- typography.md
 |   |
-|   |-- utilities
+|   |-- Android
 |   |   |-- index.md      (parent page)
 |   |   |-- color.md
 |   |   |-- layout.md
@@ -121,7 +121,7 @@ has_children: true
 
 ```
 
-Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
+Here we're setting up the UI Components landing page that is available at `/docs/Windows`, which has children and is ordered second in the main nav.
 
 ### Child pages
 
