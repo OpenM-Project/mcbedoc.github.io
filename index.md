@@ -16,61 +16,33 @@ An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 [View it on GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-
+# Getting started
 {: .warning }
 > We don't directly advocate for piracy, this is for preservation and educational purposes only.
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
+MCBEDOC is a collection of Minecraft: Bedrock Edition tools & unlockers. You can find useful tools and unlcokers for all Minecraft versions based on Minecraft: Bedrock Edition.
 
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
 
-Browse the docs to learn more about how to use this theme.
+Feel free to browse the docs to learn more about Minecraft: Bedrock Edition tools & unlockers!
 
-## Getting started
 
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
-
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [MCBEDOC Repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
-
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
 
 ## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
+This website is built on Jekyll with Just the Docs theme
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+MCBEDOC is &copy; {{ "now" | date: "%Y" }} by [OpenMicrosoft Project](https://openm.tech).
+This website is distributed by an [MIT license](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/tree/main/LICENSE.txt).
 
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io#contributing).
 
-#### Thank you to the contributors of Just the Docs!
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
-
-[MCBEDOC]: https://just-the-docs.com
+[MCBEDOC]: https://openm.tech
 [MCBEDOC Repo]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
 [MCBEDOC README]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/blob/main/README.md
 [OpenM]: https://openm.tech/
