@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Labels
+title: Minecraft Education
 parent: Windows
 nav_order: 3
 ---

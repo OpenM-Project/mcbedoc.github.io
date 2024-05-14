@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Callouts
+title: Minecraft Dungeons
 parent: Windows
 nav_order: 7
 ---

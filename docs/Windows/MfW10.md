@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Minecraft for Windows
 parent: Windows
 nav_order: 2
 ---

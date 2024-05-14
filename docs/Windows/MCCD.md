@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tables
+title: Minecraft China Dev
 parent: Windows
 nav_order: 4
 ---

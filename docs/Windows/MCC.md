@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lists
+title: Minecraft China
 parent: Windows
 nav_order: 5
 ---

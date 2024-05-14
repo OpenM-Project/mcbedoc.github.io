@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/windows
 ---
 
-# UI Components
+# Windows Tools
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Minecraft: Bedrock Edition Tools & Unlockers for Windows XP to Windows 11
 {: .fs-6 .fw-300 }

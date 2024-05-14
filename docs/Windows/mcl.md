@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Code
+title: Minecraft Legends
 parent: Windows
-has_children: true
 nav_order: 6
 ---
 
