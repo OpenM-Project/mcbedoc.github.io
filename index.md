@@ -12,13 +12,13 @@ permalink: /
 An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](/docs/the-story/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .warning }
-> We don't directly advocate for piracy, this is for preservation and educational purposes only.
+> We don't directly advocate for piracy, this is for preservation and educational purposes only!
 
 MCBEDOC is a collection of Minecraft: Bedrock Edition tools & unlockers. You can find useful tools and unlcokers for all Minecraft versions based on Minecraft: Bedrock Edition.
 
