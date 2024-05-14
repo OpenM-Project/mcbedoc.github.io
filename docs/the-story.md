@@ -19,6 +19,7 @@ The detaild story of cracking Minecraft: Windows 10 Edition
 ---
 
 {: .info }
+
 > When Minecraft: Windows 10 Edition was released, people started to look for ways to play the game for free *(as usual)*. The game had a trial version which was limited and you could only play for 60 minutes in a world.
 >
 > Then, people started to notice that the paid version and the trial version was the exact same app! So, efforts started to try to unlock the game, and here we are today.
