@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MCBEDOC
-description: MCBEDOC- An Ultimate Collection of MCBE Tools & Unlockers
+description: MCBEDOC - An Ultimate Collection of MCBE Tools & Unlockers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcbedoc.openm.tech" # the base hostname & protocol for your site, e.g. http://example.com
 repository: OpenMicrosoft-Project/mcbedoc.github.io # for github-metadata
@@ -106,7 +106,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "<i class='fab fa-github'></i>":
+  "Edit on GitHub":
     - "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
   "OpenMicrosoft Project website":
     - "https://openm.tech/"
