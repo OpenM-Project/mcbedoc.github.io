@@ -108,6 +108,8 @@ heading_anchors: true
 aux_links:
   "MCBEDOC on GitHub":
     - "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
+  "OpenMicrosoft Project website":
+    - "https://openm.tech/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -121,9 +123,9 @@ nav_enabled: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: MCBEDOC on GitHub
-    url: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
+# nav_external_links:
+#  - title: MCBEDOC on GitHub
+#    url: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
 
 liquid:
    error_mode: strict
@@ -175,7 +177,7 @@ callouts:
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 ga_tracking: G-4VXN2ZNNNS
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
