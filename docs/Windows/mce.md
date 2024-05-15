@@ -1,4 +1,4 @@
-á---
+---
 layout: default
 title: Minecraft: Earth
 parent: Windows
