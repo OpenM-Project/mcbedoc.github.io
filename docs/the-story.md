@@ -43,9 +43,9 @@ The detaild story of cracking Minecraft: Windows 10 Edition
 
 <details>
 
-<summary>The third method - Online-fix\.me</summary>
+<summary>The third method - Online-fix.me</summary>
 
-* In 2021, online-fix\.me *(a well-known Russian site)* released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added **Appx Download** and discarded some in-development methods like, *DLL RAM Patch*, *Store Purchase Crack* using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used **In-Memory Code Manipulation** without the need of any DLLs. This version also had a UWP app but it was tricky to install *(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)*. M Centers 6.0 was released, but it was just a re-made UI for the exact same app *(it was intended to provide auto-patching DLLs, but it was never done).
+* In 2021, online-fix.me *(a well-known Russian site)* released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added **Appx Download** and discarded some in-development methods like, *DLL RAM Patch*, *Store Purchase Crack* using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used **In-Memory Code Manipulation** without the need of any DLLs. This version also had a UWP app but it was tricky to install *(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)*. M Centers 6.0 was released, but it was just a re-made UI for the exact same app *(it was intended to provide auto-patching DLLs, but it was never done).
 
 </details>
 
