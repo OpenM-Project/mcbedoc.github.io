@@ -5,7 +5,19 @@ parent: Windows
 nav_order: 2
 ---
 
-# Tools for Minecraft for Windows
+# Unlockers for Minecraft for Windows
+
+{: .note-title }
+> !~ **Glossary:** ~!
+>
+> * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](https://rentry.co/mcbedoc#the-beginning-m-centers-online-fix46me)
+> * **I-MCM** - In-Memory Code Manipulation: Edits `minecraft.windows.exe` in RAM
+> * **DMM** - DLL Memory Manipulation: Loads `Windows.ApplicationModel.Store.dll` in a process and edit it's code in RAM
+> !~ *Editing in RAM*: ~! [Memory Injection] When a program uses RAM when running, the RAM Manipulator [if using one] edits in there. Thus making it temporary.
+> * DLL Replacing: Replaces Store DLLs with Cracked ones.
+> * DLL Hooking: [Hooks](https://www.vmray.com/glossary/hooking/) the DLLs of MS Store.
+> * **DRC** - DLL Redirection for Cracking: Making Minecraft load Cracked DLLs without editing system files
+
 
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
@@ -40,3 +52,23 @@ Minecraft_Bypass_the_program|[GitHub](https://github.com/Xing-Fax/Minecraft_Bypa
 Minecraft-Bedrock-Cracker|[GitHub](https://github.com/cloudhzc/Minecraft-Bedrock-Cracker/files/8850405/Minecraft.Bedrock.Cracker.3.0.setup.zip)|[GitHub](https://github.com/cloudhzc/Minecraft-Bedrock-Cracker)|No|ClipSVC
 MIno's Python script|[GitHub](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python/archive/refs/heads/main.zip)|[GitHub](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python)|No|ClipSVC
 XenonLauncher|[GitHub](https://github.com/charlie272/XenonLauncher/archive/refs/heads/main.zip)|[GitHub](https://github.com/charlie272/XenonLauncher)|No|ClipSVC
+
+---
+
+# Other Tools for Minecraft for Windows 10
+
+Name | Download | Source code | Is it maintained?| Description
+------ | ------ | ------ | ------| ------
+MCLauncher|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher/releases)|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher)|**Yes**|Multi-version launcher for Minecraft
+MCli|[GitHub](https://raw.githubusercontent.com/mcrax/mcli/main/MCli.py)|[GitHub](https://github.com/mcrax/mcli)|No|UUID downloading
+McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|Maybe|Decrypting Marketplace Content
+Secret-Minecraft-marketplace-products|[PixelDrain](https://pixeldrain.com/u/TeFv567Z)|~~PixelDrain~~|No|List of unavalible marketplace items
+Testcoin|[Telegram](https://t.me/archivebluecoin)|[Telegram](https://t.me/archivebluecoin)|**Yes**|Decrypting Marketplace Content
+ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypting Marketplace Content
+RobLauncher|[GitHub](https://github.com/OptiJuegos/RobLauncher/releases)|[GitHub](https://github.com/OptiJuegos/RobLauncher)|**Yes**|Collections of tools
+Mcappx|[Website](https://www.mcappx.com/)|Closed-source|**Yes**|A third-party game resource platform that focuses on providing all versions of Minecraft for Windows
+AutoModificator|[GitHub](https://github.com/Max-RM/AutoModificator)|[GitHub](https://github.com/Max-RM/AutoModificator/releases)|**Yes**| Unlocking height limit and piston push limit
+Bedrock Launcher|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher/releases)|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher)|**Yes**|Multi-version launcher for Minecraft with a good GUI
+Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|Closed-source|**Yes**|Skinpack unlocker
+Mc Persona|[PixelDrain](https://pixeldrain.com/u/gn9BuMTG)|[Telegram](https://t.me/c/2071756372/1758)|Maybe|Persona decryptor
+BlueCoin|[Telegram](https://t.me/archivebluecoin)|Closed-source|**Yes**|Decrypting Marketplace Content
