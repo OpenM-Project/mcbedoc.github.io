@@ -23,6 +23,7 @@ The detaild story of cracking Minecraft: Windows 10 Edition
 >
 > Then, people started to notice that the paid version and the trial version was the exact same app! So, efforts started to try to unlock the game, and here we are today.
 Stable
+
 ### The Beginning, M Centers & online-fix\.me
 
 <details>

@@ -10,7 +10,7 @@ nav_order: 1
 {: .note-title }
 > **Glossary:**
 >
-> * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](https://rentry.co/mcbedoc#the-beginning-m-centers-online-fix46me)
+> * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](https://mcbedoc.openm.tech/docs/the-story/#the-beginning-m-centers--online-fixme)
 > * **I-MCM** - In-Memory Code Manipulation: Edits `minecraft.windows.exe` in RAM
 > * **DMM** - DLL Memory Manipulation: Loads `Windows.ApplicationModel.Store.dll` in a process and edit it's code in RAM
 > !~ *Editing in RAM*: ~! [Memory Injection] When a program uses RAM when running, the RAM Manipulator [if using one] edits in there. Thus making it temporary.
