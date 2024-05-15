@@ -2,7 +2,7 @@
 layout: default
 title: Minecraft for Windows
 parent: Windows
-nav_order: 2
+nav_order: 1
 ---
 
 # Unlockers for Minecraft for Windows
