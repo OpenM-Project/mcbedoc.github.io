@@ -6,6 +6,8 @@ nav_order: 3
 ---
 
 # Unlockers for Minecraft Education
+New
+{: .label .label-green }
 
 <div markdown=1>
 
