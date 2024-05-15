@@ -5,17 +5,6 @@ parent: Windows
 nav_order: 2
 ---
 
-# Typography
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 # Tools for Minecraft: Earth
 
 Name | Download | Source code | Is it maintained? | Description
