@@ -37,8 +37,6 @@ The First trick, discovered by tinedpakgamer, is the <b>ClipSVC Method</b>. With
 
 <summary>The second method - DLL Replacing</summary>
 
-<div markdown=1>
-
 Then came along a permanent method, the <b>DLL Replacing</b>. By replacing <code>Windows.ApplicationModel.Store.dll</code> with <i>Cracked DLLs</i> and making it say the game was licensed, Minecraft was able to be unlocked! This was the method used by Tinedpakgamer in M Centers, released as version 3.0 <i>(2.0 was a sentry launcher using precracked appx. It failed and got scraped)</i>. After M Centers 3.0 became commonly used, M Centers 3.3 was released which did the same thing, but fixed a bug in the previous version.
 
 </details>
