@@ -8,7 +8,7 @@ nav_order: 2
 # Unlockers for Minecraft for Windows
 
 {: .note-title }
-> !~ **Glossary:** ~!
+> **Glossary:**
 >
 > * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](https://rentry.co/mcbedoc#the-beginning-m-centers-online-fix46me)
 > * **I-MCM** - In-Memory Code Manipulation: Edits `minecraft.windows.exe` in RAM
