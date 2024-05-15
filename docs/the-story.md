@@ -29,11 +29,7 @@ The detaild story of cracking Minecraft: Windows 10 Edition
 
 <summary>The first method - ClipSVC</summary>
 
-<div markdown=1>
-
-The First trick, discovered by tinedpakgamer, is the **ClipSVC Method**. With some registry code, you could force stop ClipSVC and prevent it from running in the background. After that, when you start Minecraft, it would buffer at 46% which you would then go and force stop Runtime Broker under Minecraft in Task Manager. And this worked! This was then packed into a program named M Centers by the discoverer. But, this method was the opposite of safe, as it breaks MS Store completely and on 10th October 2022, it got patched by Microsoft Sanity/Subscription Check Update.
-
-<div markdown=0>
+The First trick, discovered by tinedpakgamer, is the <b>ClipSVC Method</b>. With some registry code, you could force stop ClipSVC and prevent it from running in the background. After that, when you start Minecraft, it would buffer at 46% which you would then go and force stop Runtime Broker under Minecraft in Task Manager. And this worked! This was then packed into a program named M Centers by the discoverer. But, this method was the opposite of safe, as it breaks MS Store completely and on 10th October 2022, it got patched by Microsoft Sanity/Subscription Check Update.
 
 </details>
 
@@ -43,9 +39,7 @@ The First trick, discovered by tinedpakgamer, is the **ClipSVC Method**. With so
 
 <div markdown=1>
 
-Then came along a permanent method, the **DLL Replacing**. By replacing `Windows.ApplicationModel.Store.dll` with *Cracked DLLs* and making it say the game was licensed, Minecraft was able to be unlocked! This was the method used by Tinedpakgamer in M Centers, released as version 3.0 *(2.0 was a sentry launcher using precracked appx. It failed and got scraped)*. After M Centers 3.0 became commonly used, M Centers 3.3 was released which did the same thing, but fixed a bug in the previous version.
-
-<div markdown=0>
+Then came along a permanent method, the <b>DLL Replacing</b>. By replacing <code>Windows.ApplicationModel.Store.dll</code> with <i>Cracked DLLs</i> and making it say the game was licensed, Minecraft was able to be unlocked! This was the method used by Tinedpakgamer in M Centers, released as version 3.0 <i>(2.0 was a sentry launcher using precracked appx. It failed and got scraped)</i>. After M Centers 3.0 became commonly used, M Centers 3.3 was released which did the same thing, but fixed a bug in the previous version.
 
 </details>
 
@@ -53,11 +47,8 @@ Then came along a permanent method, the **DLL Replacing**. By replacing `Windows
 
 <summary>The third method - Online-fix.me</summary>
 
-<div markdown=1>
 
-In 2021, online-fix.me *(a well-known Russian site)* released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added **Appx Download** and discarded some in-development methods like, *DLL RAM Patch*, *Store Purchase Crack* using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used **In-Memory Code Manipulation** without the need of any DLLs. This version also had a UWP app but it was tricky to install *(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)*. M Centers 6.0 was released, but it was just a re-made UI for the exact same app *(it was intended to provide auto-patching DLLs, but it was never done).
-
-<div markdown=0>
+In 2021, online-fix.me <i>(a well-known Russian site)</i> released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added <b>Appx Download</b> and discarded some in-development methods like, <i>DLL RAM Patch</i>, <i>Store Purchase Crack</i> using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used <b>In-Memory Code Manipulation</b> without the need of any DLLs. This version also had a UWP app but it was tricky to install <i>(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)</i>. M Centers 6.0 was released, but it was just a re-made UI for the exact same app <i>(it was intended to provide auto-patching DLLs, but it was never done).</i>
 
 </details>
 
@@ -69,11 +60,7 @@ In 2021, online-fix.me *(a well-known Russian site)* released their own version 
 
 <summary>The DMCA</summary>
 
-<div markdown=1>
-
 After some time of the releases, Tinedpakgamer announced the end of M Centers, and started slowly deleting everything related to him. The speculated reason for this was an DMCA takedown, but this was never confirmed. 
-
-<div markdown=0>
 
 </details>
 
@@ -81,11 +68,8 @@ After some time of the releases, Tinedpakgamer announced the end of M Centers, a
 
 <summary>SOMEONE</summary>
 
-<div markdown=1>
 
 While M Centers was slowly shutting down, a user named SOMEONE#1060 created a server named "M Community" and shared it through a major chunk of users on the M Centers server. his server, M Community, was the unofficial revival and archive of M Centers. As this server got increasingly popular, Tinedpakgamer found out about it then proceeded to delete the invitation message. But it was too late, and most of the stuff was archived and lots of users were in the server already. M Centers eventually deleted the Discord server, leaving no trace of it. 
-
-<div markdown=0>
 
 </details>
 
@@ -93,11 +77,7 @@ While M Centers was slowly shutting down, a user named SOMEONE#1060 created a se
 
 <summary>M Community YouTube</summary>
 
-<div markdown=1>
-
-Later, a video titled something along the lines of "How to get MCBE for free" blew up. This video had linked the M Community server, which caused it to get lots of members. This soon led to M Centers joining the server and uploading M Centers 7.0 *(also known as Akshnav Launcher)* which also used *In-Memory Code Manipulation]. But this method had some issues.
-
-<div markdown=0>
+Later, a video titled something along the lines of "How to get MCBE for free" blew up. This video had linked the M Community server, which caused it to get lots of members. This soon led to M Centers joining the server and uploading M Centers 7.0 <i>(also known as Akshnav Launcher)</i> which also used <i>In-Memory Code Manipulation</i>. But this method had some issues.
 
 </details>
 
@@ -105,11 +85,8 @@ Later, a video titled something along the lines of "How to get MCBE for free" bl
 
 <summary>Akshnav</summary>
 
-<div markdown=1>
 
 It was basically closed-source, it got frequently flagged by AV software as a virus, and you had to open the app and launch Minecraft that way to make it work. It also didn't work with all versions of Minecraft or Windows, so it was basically just a mess which got some people upset, and some left. Then there was a new player in the game.
-
-<div markdown=0>
 
 </details>
 
@@ -121,11 +98,8 @@ It was basically closed-source, it got frequently flagged by AV software as a vi
 
 <summary>The decompilation</summary>
 
-<div markdown=1>
 
 Developers in M Community started work on decompiling Akshnav, cleaning it up and the sorts. This led nowhere in the end, but it was still a helpful resource to get an idea of how it was done. This work was done under M Community-Development.
-
-<div markdown=0>
 
 </details>
 
@@ -133,11 +107,8 @@ Developers in M Community started work on decompiling Akshnav, cleaning it up an
 
 <summary>OpenM Community</summary>
 
-<div markdown=1>
 
-And then some staff members and developers created a new server named "OpenM Community", and therefore the OpenM Project. They started work on `librosewater`, which was a process memory manipulation library written in pure Python.
-
-<div markdown=0>
+And then some staff members and developers created a new server named "OpenM Community", and therefore the OpenM Project. They started work on <code>librosewater</code>, which was a process memory manipulation library written in pure Python.
 
 </details>
 
@@ -145,16 +116,15 @@ And then some staff members and developers created a new server named "OpenM Com
 
 <summary>BEAMInject</summary>
 
-<div markdown=1>
 
-This hinted at their next release, `BEAMinject` which was a fast and secure unlocker using **DLL Memory Manipulatoion** for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
-  - It *was* the only maintained and currently working tool that was open-source
-  - It worked with all kinds of Minecraft and Windows versions
-  - It natively supported ARM devices
-  - It had a silent executable which allowed users to just create a nice-looking shortcut
-  - It didn't permanently modify system files and didn't have any prebuilt DLLs
-
-<div markdown=0>
+This hinted at their next release, <code>BEAMinject</code> which was a fast and secure unlocker using <b>DLL Memory Manipulatoion</b> for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
+<ul>
+  <li>It <i>was</i> the only maintained and currently working tool that was open-source</li>
+  <li>It worked with all kinds of Minecraft and Windows versions</li>
+  <li>It natively supported ARM devices</li>
+  <li>It had a silent executable which allowed users to just create a nice-looking shortcut</li>
+  <li>It didn't permanently modify system files and didn't have any prebuilt DLLs</li>
+</ul>
 
 </details>
 
@@ -164,11 +134,7 @@ This hinted at their next release, `BEAMinject` which was a fast and secure unlo
 
 <summary>The Merge</summary>
 
-<div markdown=1>
-
-OpenM has been aborted, as soyeonswife63 retired on OpenM to begin a new individual project. The rest Mods/Admins deleted OpenM and set sail to M Community, as they have merged with them. 
-
-<div markdown=0>
+OpenM has been aborted, as soyeonswife63 retired on OpenM to begin a new individual project. The rest Mods/Admins deleted OpenM and set sail to M Community, as they have merged with them.
 
 </details>
 
@@ -176,11 +142,7 @@ OpenM has been aborted, as soyeonswife63 retired on OpenM to begin a new individ
 
 <summary>M Centers join</summary>
 
-<div markdown=1>
-
 Since MCenter's discontinuation, tinedpakgamer has become silent ever since, except in Twitter. But, as of 1st May 2024, he joined M Community and announced that he was working on M Centers 8.0, so, M Centers prevail!
-
-<div markdown=0>
 
 </details>
 
@@ -188,10 +150,7 @@ Since MCenter's discontinuation, tinedpakgamer has become silent ever since, exc
 
 <summary>M Centers YouTube</summary>
 
-<div markdown=1>
 
-First, tinedpakgamer revived the [Youtube Channel](https://www.youtube.com/channel/UCM1jM7NWXvt8roj8mzMvhfw). He then created the [Discord Server](https://dsc.gg/mcenters) in which, on 8th May 2024, officially released M Centers 4.5 [The base code of M Centers 8.0]. It uses DLL Replacing, just like 4.0, but used .NET Framework replacing .NET Core, in which removes the requirement of .NET Runtime in your device. It also has an x86 version, but mainly it adds a *secret function*. The program can also be used with other UWP applications.
-
-<div markdown=0>
+First, tinedpakgamer revived the <a href="https://www.youtube.com/channel/UCM1jM7NWXvt8roj8mzMvhfw">Youtube Channel</a>. He then created the <a href="https://dsc.gg/mcenters">Discord Server</a> in which, on 8th May 2024, officially released M Centers 4.5 [The base code of M Centers 8.0]. It uses DLL Replacing, just like 4.0, but used .NET Framework replacing .NET Core, in which removes the requirement of .NET Runtime in your device. It also has an x86 version, but mainly it adds a <i>secret function</i>. The program can also be used with other UWP applications.
 
 </details>
