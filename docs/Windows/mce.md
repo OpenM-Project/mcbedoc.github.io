@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minecraft: Earth
+title: Minecraft Earth
 parent: Windows
 nav_order: 2
 ---
