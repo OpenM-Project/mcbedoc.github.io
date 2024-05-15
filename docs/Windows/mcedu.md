@@ -6,6 +6,9 @@ nav_order: 3
 ---
 
 # Unlockers for Minecraft Education
+
+<div markdown=1>
+
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
 Cracked Minecraft Education Edition Multiplayer|[GitHub](https://github.com/OptiJuegos/education-cracked/releases)|[GitHub](https://github.com/OptiJuegos/education-cracked)|**Yes**|Pre-cracked .exe
