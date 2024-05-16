@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Home
-nav_order: 1
+nav_exclude: true
 description: "MCBEDOC - An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers"
 permalink: /
 ---
