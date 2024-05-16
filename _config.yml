@@ -106,8 +106,6 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub repository":
-    - "https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"
   "OpenMicrosoft Project website":
     - "https://openm.tech/"
 
