@@ -27,7 +27,6 @@ An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 > Feel free to browse the docs to learn more about Minecraft: Bedrock Edition tools & unlockers!
 {: .fs-5 }
 
-
 ## About the project
 
 This website is built on Jekyll with Just the Docs theme. 
