@@ -106,8 +106,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "OpenMicrosoft Project website":
-    - "https://openm.tech/"
+#  "OpenMicrosoft Project website":
+#    - "https://openm.tech/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
