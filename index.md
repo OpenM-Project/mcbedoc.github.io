@@ -42,7 +42,7 @@ This website is distributed by an [MIT license](https://github.com/OpenMicrosoft
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io#contributing).
 
-***[Credits to the OpenMicrosoft Team](https://github.com/OpenMicrosft-Project)***
+***[Credits to the OpenMicrosoft Team](https://github.com/OpenMicrosoft-Project)***
 {: .fs-5 }
 
 [MCBEDOC]: https://openm.tech
