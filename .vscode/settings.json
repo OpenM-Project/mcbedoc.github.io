@@ -1,5 +1,7 @@
 {
     "github-actions.workflows.pinned.workflows": [
         ".github/workflows/deploy.yml"
-    ]
+    ],
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }
