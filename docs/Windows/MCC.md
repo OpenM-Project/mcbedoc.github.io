@@ -5,95 +5,21 @@ parent: Windows
 nav_order: 5
 ---
 
-# Lists
-{: .no_toc }
+# Tools for Minecraft China
 
-## Table of contents
-{: .no_toc .text-delta }
+{: .note-title }
+> <b><u>Not only in China</u></b>
+>
+> Most of the tools listed down here don't need a Chinese Netease account!
 
-1. TOC
-{:toc}
+Name | Link | Source code | Is it maintained? | Description
+------ | ------ | ------ | ------| ------
+Minecraft Bedrock Developer Edition Discussion Community|[Telegram](https://t.me/boycottmojang/11063)|Closed-Source|**Yes**|A discussion community for Minecraft Bedrock Developer Edition
+MCStudio and PCLauncher|[Telegram](https://t.me/+OD2bd9Z0_jYxYzJh)|Closed-Source|**Yes**|Archived MCStudio and PCLauncher versions
+MCStudio Patches|[Telegram](https://t.me/+rBWWRA30ZR0zOTAx)|Closed-Source|**Yes**|MCStudio patches
+Miscellaneous and Unidentified Versions|[Telegram](https://t.me/+9BeKboXdI0cxZjI5)|Closed-Source|**Yes**|Miscellaneous archives
+Modified Version Series|[Telegram](https://t.me/+huibG4Y5d1pkMmI5)|Closed-Source|**Yes**|Modified version series
+MCDEV Bedrock & Misc Archive|[Telegram](https://t.me/+-kF4gXGbU4llNzAx)|Closed-Source|**Yes**|MCDEV Bedrock & Misc Archive
+MDLC Channel|[Telegram](https://t.me/MDLC_main)|Closed-Source|**Yes**|Minecraft Development Leaks Community
+MDLC Group|[Telegram](https://t.me/MDLC_group)|Closed-Source|**Yes**|Minecraft Development Leaks Community discussion
 
----
-
-Most lists can be rendered with pure Markdown.
-
-## Unordered list
-
-<div class="code-example" markdown="1">
-- Item 1
-- Item 2
-- Item 3
-
-_or_
-
-* Item 1
-* Item 2
-* Item 3
-</div>
-```markdown
-- Item 1
-- Item 2
-- Item 3
-
-_or_
-
-* Item 1
-* Item 2
-* Item 3
-```
-
-## Ordered list
-
-<div class="code-example" markdown="1">
-1. Item 1
-1. Item 2
-1. Item 3
-</div>
-```markdown
-1. Item 1
-1. Item 2
-1. Item 3
-```
-
-## Task list
-
-<div class="code-example" markdown="1">
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-</div>
-```markdown
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-```
-
-## Definition list
-
-Definition lists require HTML syntax and aren't supported with the GitHub Flavored Markdown compiler.
-
-<div class="code-example" markdown="1">
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-</div>
-```html
-<dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-</dl>
-```
