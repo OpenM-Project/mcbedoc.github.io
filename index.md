@@ -48,4 +48,4 @@ email, or any other method with the owners of this repository before making a ch
 [MCBEDOC Repo]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
 [MCBEDOC README]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/blob/main/README.md
 [OpenM]: https://openm.tech/
-[customize]: {% link docs/customization.md %}
+[Mentions]: {% link docs/mentions.md %}
