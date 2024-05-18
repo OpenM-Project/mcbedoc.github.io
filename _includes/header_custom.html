@@ -11,10 +11,13 @@
 <a href="#"><img id="themeIcon" src="/assets/images/theme_switch_g.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
 
 <script>
+    var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
+    jtd.setTheme(currentTheme);
+
     function switchTheme(event) {
         event.preventDefault();
-        var currentTheme = jtd.getTheme();
-        var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        jtd.setTheme(newTheme);
+        currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        jtd.setTheme(currentTheme);
+        localStorage.setItem('theme', currentTheme);
     }
 </script>
