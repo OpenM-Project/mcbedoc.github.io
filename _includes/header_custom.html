@@ -11,7 +11,7 @@
 
 <!-- Theme switcher -->
 <img src="/assets/images/gap.png">
-<a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
+<a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch_w.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
 
 <script>
     function switchTheme(event) {
@@ -23,15 +23,19 @@
         themeIcon.src = "/assets/images/theme-switch.png";
         themeIcon.alt = "Theme Switch";
         themeIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        var GitHubIcon = document.getElementById('GitHubIcon');
         GithubIcon.src = "/assets/images/github_w.png";
         GithubIcon.alt = "Github";
         GithubIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        var DiscordIcon = document.getElementById('DiscordIcon');
         DiscordIcon.src = "/assets/images/discord_w.png";
         DiscordIcon.alt = "Discord";
         DiscordIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        var RedditIcon = document.getElementById('RedditIcon');
         RedditIcon.src = "/assets/images/reddit_w.png";
         RedditIcon.alt = "Reddit";
         RedditIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        var WebsiteIcon = document.getElementById('WebsiteIcon');
         WebsiteIcon.src = "/assets/images/web_w.png";
         WebsiteIcon.alt = "Website";
         WebsiteIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
