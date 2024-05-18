@@ -1,17 +1,17 @@
 <script></script>
 <img src="/assets/images/gap.png">
-<a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img src="/assets/images/github_w.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(100%);" onclick="switchTheme(event)"></a>
+<a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img id="GitHubIcon" src="/assets/images/github_w.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://dsc.gg/openms"><img src="/assets/images/discord_w.png" alt="OpenMicrosoft Discord" style="width:20px;height:23px;transform: translate(0px, 10px);filter: invert(100%);" onclick="switchTheme(event)"></a>
+<a href="https://dsc.gg/openms"><img id="DiscordIcon" src="/assets/images/discord_w.png" alt="OpenMicrosoft Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://openmcommunity.reddit.com"><img src="/assets/images/reddit_w.png" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);filter: invert(100%);" onclick="switchTheme(event)"></a>
+<a href="https://openmcommunity.reddit.com"><img id="RedditIcon" src="/assets/images/reddit_w.png" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://openm.tech"><img src="/assets/images/web_w.png" alt="OpenM Official" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(100%);" onclick="switchTheme(event)"></a>
+<a href="https://openm.tech"><img id="WebsiteIcon" src="/assets/images/web_w.png" alt="OpenM Official" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <!-- Other header content... -->
 
 <!-- Theme switcher -->
 <img src="/assets/images/gap.png">
-<a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(100%);" onclick="switchTheme(event)"></a>
+<a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
 
 <script>
     function switchTheme(event) {
@@ -19,5 +19,21 @@
         var currentTheme = jtd.getTheme();
         var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
         jtd.setTheme(newTheme);
+        var themeIcon = document.getElementById('themeIcon');
+        themeIcon.src = "/assets/images/theme-switch.png";
+        themeIcon.alt = "Theme Switch";
+        themeIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        GithubIcon.src = "/assets/images/github_w.png";
+        GithubIcon.alt = "Github";
+        GithubIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        DiscordIcon.src = "/assets/images/discord_w.png";
+        DiscordIcon.alt = "Discord";
+        DiscordIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        RedditIcon.src = "/assets/images/reddit_w.png";
+        RedditIcon.alt = "Reddit";
+        RedditIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
+        WebsiteIcon.src = "/assets/images/web_w.png";
+        WebsiteIcon.alt = "Website";
+        WebsiteIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
     }
 </script>
