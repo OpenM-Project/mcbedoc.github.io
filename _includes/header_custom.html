@@ -21,9 +21,8 @@
     function switchTheme(event) {
         event.preventDefault();
         currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        jtd.setTheme("light"); // Change the theme to "light"
+        jtd.setTheme(currentTheme);
         localStorage.setItem('theme', currentTheme);
         document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
     }
 </script>
-
