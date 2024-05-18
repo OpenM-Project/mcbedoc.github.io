@@ -1,4 +1,4 @@
-
+<script></script>
 <img src="/assets/images/gap.png">
 <a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img src="/assets/images/github_w.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
@@ -21,8 +21,9 @@
     function switchTheme(event) {
         event.preventDefault();
         currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        jtd.setTheme(currentTheme);
+        jtd.setTheme("light"); // Change the theme to "light"
         localStorage.setItem('theme', currentTheme);
         document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
     }
 </script>
+
