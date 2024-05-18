@@ -9,24 +9,20 @@
 <a href="https://openm.tech"><img src="/assets/images/web_w.png" alt="OpenM Official" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <!-- Other header content... -->
 
+<!-- Theme switcher -->
 <img src="/assets/images/gap.png">
 <a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
 
 <script>
-  // Assuming jtd is from Just the Docs and has a setTheme function
-  var currentTheme = localStorage.getItem('theme') || 'dark';
-  jtd.setTheme(currentTheme); // Set the theme based on Local Storage or default
+    var currentTheme = localStorage.getItem('theme') || 'dark';
+    jtd.setTheme(currentTheme);
+    document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
 
-  // Update icon based on theme (optional visual feedback)
-  document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
-
-  function switchTheme(event) {
+    function switchTheme(event) {
     event.preventDefault();
     currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
-
-    // Call jtd.setTheme to update the theme on the page (replace with your implementation)
-    jtd.setTheme(currentTheme);
-
-    localStorage.setItem('theme', currentTheme); // Store the theme for future visits
-  }
+    jtd.setTheme('light'); // Set theme to "light" explicitly
+    localStorage.setItem('theme', currentTheme);
+    document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
+}
 </script>
