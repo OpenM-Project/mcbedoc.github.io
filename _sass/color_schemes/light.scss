@@ -13,8 +13,4 @@ $table-background-color: $white !default;
 $search-background-color: $white !default;
 $search-result-preview-color: $grey-dk-000 !default;
 
-.body {
-    transition: all 0.5s ease;
-  }
-
 @import "./vendor/OneLightJekyll/syntax";
