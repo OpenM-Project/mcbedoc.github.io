@@ -19,10 +19,10 @@
     document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
 
     function switchTheme(event) {
-    event.preventDefault();
-    currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    jtd.setTheme('light'); // Set theme to "light" explicitly
-    localStorage.setItem('theme', currentTheme);
-    document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
-}
+        event.preventDefault();
+        currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        jtd.setTheme(currentTheme);
+        localStorage.setItem('theme', currentTheme);
+        document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
+    }
 </script>
