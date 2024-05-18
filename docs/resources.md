@@ -7,7 +7,6 @@ nav_order: 7
 
 ## Learn more here
 
-* [M Centers](https://dsc.gg/mcenters)
 * [M Community](https://discord.gg/h7ke59TwgS)
 * [Tinedpakgamer's Twitter](https://twitter.com/tinedpakgamer)
 * [Shytz](https://shytz.net/)
@@ -66,6 +65,6 @@ nav_order: 7
 * [Minecraft dev archive](https://t.me/MinecraftDevLeaks)
 * [MDLC Redirect](https://t.me/MDLC_redirect)
 * [MDLC_manuals N](https://t.me/MDLCmanuals)
-* [MDLC News [ENG]](https://t.me/mdlc_news_eng)
+* [MDLC News \[ENG\]](https://t.me/mdlc_news_eng)
 * [Bedrock Archive](https://t.me/bedrockarchive)
 * [TNT ENTERTAINMENT inc](https://t.me/TNT_ENTERTAINMENT_inc)
