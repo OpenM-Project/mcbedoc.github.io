@@ -4,14 +4,14 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: #171717;
+  background-color: $sidebar-color;
 
   @include mq(md) {
     flex-flow: column nowrap;
     position: fixed;
     width: $nav-width-md;
     height: 100%;
-    border-right: $border #2e2e32;
+    border-right: $border $border-color;
     align-items: flex-end;
   }
 
@@ -37,11 +37,11 @@
 
     .main-header {
       display: none;
-      background-color: #171717;
+      background-color: $sidebar-color;
 
       @include mq(md) {
         display: flex;
-        background-color: #1a1a1a;
+        background-color: $body-background-color;
       }
 
       &.nav-open {
@@ -78,7 +78,7 @@
 
 .main-header {
   z-index: 0;
-  border-bottom: $border #2e2e32;
+  border-bottom: $border $border-color;
 
   @include mq(md) {
     display: flex;
@@ -121,7 +121,7 @@
   @include mq(md) {
     height: $header-height;
     max-height: $header-height;
-    border-bottom: $border #2e2e32;
+    border-bottom: $border $border-color;
   }
 }
 
@@ -134,7 +134,7 @@
   align-items: center;
   padding-top: $sp-3;
   padding-bottom: $sp-3;
-  color: #1a1a1a;
+  color: $body-heading-color;
   @include fs-6;
 
   @include mq(md) {
@@ -207,7 +207,7 @@ body {
   left: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
-  color: #171717;
+  color: $grey-dk-000;
   @include fs-2;
 
   @include mq(md) {
@@ -219,7 +219,7 @@ body {
 .icon {
   width: $sp-5;
   height: $sp-5;
-  color: #a3a39d;
+  color: $link-color;
 }
 
 .aux-link {
