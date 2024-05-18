@@ -22,5 +22,5 @@ Modified Version Series|[Telegram](https://t.me/+huibG4Y5d1pkMmI5)|Not Avalible|
 MCDEV Bedrock & Misc Archive|[Telegram](https://t.me/+-kF4gXGbU4llNzAx)|Not Avalible|**Yes**|MCDEV Bedrock & Misc Archive
 MDLC Channel|[Telegram](https://t.me/MDLC_main)|Not Avalible|**Yes**|Minecraft Development Leaks Community
 MDLC Group|[Telegram](https://t.me/MDLC_group)|Not Avalible|**Yes**|Minecraft Development Leaks Community discussion
-Minecraft China – LEAKS|[Website]()https://shytz.net/Minecraft-Leaks/China-Leaks|Not Avalible|**Yes**|Minecraft China Developer Leaks
+Minecraft China – LEAKS|[Website](https://shytz.net/Minecraft-Leaks/China-Leaks)|Not Avalible|**Yes**|Minecraft China Developer Leaks
 Minecraft MCStudio|[Website](https://shytz.net/Minecraft-Leaks/MCStudio)|Not Avalible|**Yes**|Minecraft China MCStudio Leaks
