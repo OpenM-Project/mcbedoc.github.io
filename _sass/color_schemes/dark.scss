@@ -12,7 +12,7 @@ $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: $grey-dk-250;
 $search-background-color: #171717;
-$search-result-preview-color: $grey-dk-000;
-$border-color: $grey-dk-200;
+$search-result-preview-color: #2a2a2a;
+$border-color: #2e2e32;
 
 @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
