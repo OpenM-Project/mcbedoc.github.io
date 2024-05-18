@@ -1,3 +1,26 @@
+<script>
+    function switchTheme(theme) {
+        jtd.setTheme(theme);
+        const sunIcon = document.getElementById("sun-icon");
+        const moonIcon = document.getElementById("moon-icon");
+        if (theme === "dark") {
+            sunIcon.style.display = "none";
+            moonIcon.style.display = "inline";
+        } else {
+            sunIcon.style.display = "inline";
+            moonIcon.style.display = "none";
+        }
+    }
+</script>
+
+<a href="#" onclick="switchTheme('dark')">
+    <img id="moon-icon" src="/assets/images/moon.png" alt="Dark Theme" style="width:20px;height:20px;transform: translate(0px, 10px);display:none;">
+</a>
+<img src="/assets/images/gap.png">
+<a href="#" onclick="switchTheme('light')">
+    <img id="sun-icon" src="/assets/images/sun.png" alt="Light Theme" style="width:20px;height:20px;transform: translate(0px, 10px);">
+</a>
+<img src="/assets/images/gap.png">
 <a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img src="/assets/images/github_w.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
 <a href="https://dsc.gg/openms"><img src="/assets/images/discord_w.png" alt="OpenMicrosoft Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
