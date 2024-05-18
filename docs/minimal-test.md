@@ -60,7 +60,7 @@ nav_order: 7
 * [The Pillager Bay](https://t.me/ThePillagerBay)
 * [MC Users Channel](https://t.me/minecraft_china_dev)
 * [Minecraft Bedrock Developer Edition Discussion Community Announcements](https://t.me/antimojang)
-* [Minecraft EE|China Modded Collection](https://t.me/minecraft_modded_collection)
+* [Minecraft EE \| China Modded Collection](https://t.me/minecraft_modded_collection)
 * [Инструкции и описание / MDLC Manuals](https://t.me/MDLC_manuals)
 * [Minecraft Modified versions archive](https://t.me/minecraft_china_dev_mod)
 * [Minecraft dev archive](https://t.me/MinecraftDevLeaks)
