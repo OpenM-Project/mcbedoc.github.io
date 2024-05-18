@@ -14,15 +14,14 @@
 <a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
 
 <script>
-    var currentTheme = localStorage.getItem('theme') || 'dark';
-    jtd.setTheme(currentTheme);
-    document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
-
     function switchTheme(event) {
         event.preventDefault();
-        currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        jtd.setTheme(currentTheme);
-        localStorage.setItem('theme', currentTheme);
-        document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
+        var currentTheme = jtd.getTheme();
+        var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        jtd.setTheme(newTheme);
+        var themeIcon = document.getElementById('themeIcon');
+        themeIcon.src = "/assets/images/theme-switch.png";
+        themeIcon.alt = "Theme Switch";
+        themeIcon.style.filter = newTheme === 'dark' ? "invert(0%)" : "invert(100%)";
     }
 </script>
