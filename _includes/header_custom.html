@@ -13,13 +13,7 @@
 <img src="/assets/images/gap.png">
 <a id="theme-switcher" href="#"><img id="themeIcon" src="/assets/images/theme-switch.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);filter: invert(0%);" onclick="switchTheme(event)"></a>
 
-<!-- Add missing import -->
-<script src="https://cdn.jsdelivr.net/npm/jekyll-theme-docs@0.0.1/dist/js/jtd.js"></script>
-
 <script>
-    // Initialize jtd library
-    var jtd = window.jtd;
-
     var currentTheme = localStorage.getItem('theme') || 'dark';
     jtd.setTheme(currentTheme);
     document.getElementById('themeIcon').style.filter = currentTheme === 'dark' ? '' : 'invert(100%)';
