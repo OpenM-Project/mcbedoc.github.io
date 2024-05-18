@@ -7,7 +7,7 @@ nav_order: 2
 # The Story of MCBE unlockers
 {: .no_toc }
 
-The detaild story of cracking Minecraft: Windows 10 Edition
+The detailed story of cracking Minecraft: Windows 10 Edition
 {: .fs-6 .fw-300 }
 
 ## Table of contents
