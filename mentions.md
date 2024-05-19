@@ -4,18 +4,18 @@ title: OpenM Members and Worth Mentioning
 nav_order: 6
 ---
 
-# OpenM Project's members
+# OpenMicrosoft Project's members
 
-**Max RM** | **a *major* partner of M Centers** *(fixed M Centers 4.0)*, owns MDLC *(working on cracked appx for Minecraft)*, helped in giving Hex codes for BEAMinject.
 **XtronXI** | Owner of *r/mcommunity_* and *r/OpenMCommunity*, Founder of **MCBEDOC**
-**ars_fr** | Owner of OpenM Community
 **Cubebanyasz** | Owner of the `openm.tech` domain and `akshnav.cubebanyasz.me`, owner of the YouTube channel (*now, it's dead*) for OpenM 
+**ars_fr** | Owner of OpenM Community
 
 ---
 
 # Worth mentioning
 
 **Tinedpakgamer** | Developer of M Centres/Akshnav Launcher, he is also known as Michael Centers (M Centers)
+**Max RM** | **a *major* partner of M Centers** *(fixed M Centers 4.0)*, owns MDLC *(working on cracked appx for Minecraft)*, helped in giving Hex codes for BEAMinject.
 **CyberAWM** | Partner of M Centers
 **ClickNinYT/FishiaT** | Developer of ClickGo, ClickGoLTS, DynoLTS and BlueSky Launcher. He is also partnered with M Centrers
 **SOMEONE** | Creator of M Community
