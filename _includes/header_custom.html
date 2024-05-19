@@ -1,14 +1,14 @@
 <script></script>
 <img src="/assets/images/gap.png">
-<a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img id="GitHubIcon" src="/assets/images/github_g.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
+<a href="https://github.com/OpenMicrosoft-Project/mcbedoc.github.io"><img id="GitHubIcon" src="/assets/images/github_b.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://dsc.gg/openms"><img id="DiscordIcon" src="/assets/images/discord_g.png" alt="OpenMicrosoft Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
+<a href="https://dsc.gg/openms"><img id="DiscordIcon" src="/assets/images/discord_b.png" alt="OpenMicrosoft Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://openmcommunity.reddit.com"><img id="RedditIcon" src="/assets/images/reddit_g.png" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
+<a href="https://openmcommunity.reddit.com"><img id="RedditIcon" src="/assets/images/reddit_b.png" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="https://openm.tech"><img id="WebsiteIcon" src="/assets/images/web_g.png" alt="OpenM Official" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
+<a href="https://openm.tech"><img id="WebsiteIcon" src="/assets/images/web_b.png" alt="OpenM Official" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
 <img src="/assets/images/gap.png">
-<a href="#"><img id="themeIcon" src="/assets/images/theme_switch_g.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
+<a href="#"><img id="themeIcon" src="/assets/images/theme_switch_b.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
 
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
@@ -24,11 +24,11 @@
     }
 
     function switchIcons(theme) {
-        var icons = ['RedditIcon', 'WebsiteIcon', 'themeIcon'];
+        var icons = ['RedditIcon', 'WebsiteIcon', 'themeIcon', 'GitHubIcon', 'DiscordIcon'];
         icons.forEach(function(iconId) {
             var icon = document.getElementById(iconId);
             var src = icon.src;
-            icon.src = theme === 'dark' ? src.replace('_g.png', '_w.png') : src.replace('_w.png', '_g.png');
+            icon.src = theme === 'dark' ? src.replace('_b.png', '_w.png') : src.replace('_w.png', '_b.png');
         });
     }
 </script>
