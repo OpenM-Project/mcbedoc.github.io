@@ -5,69 +5,27 @@ nav_exclude: false
 nav_order: 7
 ---
 
-## Learn more here
+## Communitys
 
-* [M Community](https://discord.gg/h7ke59TwgS)
-* [Tinedpakgamer's Twitter](https://twitter.com/tinedpakgamer)
-* [Shytz](https://shytz.net/)
-* [Bedrock Developer Beta](https://minecraft.wiki/w/Bedrock_Developer_Beta)
-* [Minecraft Forums Community](https://www.mc-forums.com/)
-* [MCDEV MCStudio & PCLauncher Archive](https://t.me/+OD2bd9Z0_jYxYzJh)
-* [MCDEV MCStudio Patch Archive](https://t.me/+rBWWRA30ZR0zOTAx)
-* [MCDEV China Misc Archive](https://t.me/+9BeKboXdI0cxZjI5)
-* [MCDEV Modified Version Series Archive](https://t.me/+huibG4Y5d1pkMmI5)
-* [MCDEV Bedrock & Misc Archive](https://t.me/+-kF4gXGbU4llNzAx)
-* [MCDEV China ≤ 1.19 Archive](https://t.me/+LgdkKd81n69kMjEx)
-* [MCDEV China 1.20 - 1.22 Archive](https://t.me/+v6e42P7zlE85ZTgx)
-* [MCDEV China 1.23 Archive](https://t.me/+Ar_tqzYsLfY3OTZh)
-* [MCDEV China 1.24 Archive](https://t.me/+y83rsGKYAzw4NDBh)
-* [MCDEV China 1.25 Archive](https://t.me/+juvWDLc6vdQxZTA5)
-* [MCDEV China 2.0 Archive](https://t.me/+3z_6QS1m-OhlYzZh)
-* [MCDEV China 2.1 Archive](https://t.me/+4RykcZqGXgtjOGNh)
-* [MCDEV China 2.2 Archive](https://t.me/+WxQMSHbl23I2Mzdh)
-* [MCDEV China 2.3 Archive](https://t.me/+GS6sqOzQNG42MzIx)
-* [MCDEV China 2.4 Archive](https://t.me/+ZLSpREuR5WVkOTdh)
-* [MCDEV China 2.5 Archive](https://t.me/+tEET1kasT005MDRh)
-* [MCDEV China 2.6 Archive](https://t.me/+sKl_K-y8JP4wODgx)
-* [MCDEV China 2.7 Archive](https://t.me/+5S8nA15-4EcxMGIx)
-* [MCDEV China 2.8 Archive](https://t.me/+6TGqUHdby4xiZGI5)
-* [MCDEV China 2.9 Archive](https://t.me/+zROm1cZ2uDEwMDJh)
-* [MCDEV China 2.10 Archive](https://t.me/+YTwiYOzy_IswNTVh)
-* [MCDEV China 2.11 Archive](https://t.me/+b1BbzYbyzmk5YWZh)
-* [MDLC Video Archive](https://rutube.ru/channel/26457757/) 
-* [#boycottmojang MCDEV Discussion](https://discord.gg/8ZhXxD7bfG)
-* [#boycottmojang MCDEV Discussion](https://matrix.to/#/#boycottmojang:matrix.org)
-* [Transfer of Ownership of MCDEV to Sberchan](https://docs.google.com/document/d/1NI2Id-fdEeTtLE6eZncvjggdowcClIgEWzifWZiyPgM)
-* [MCDEV Manifesto](https://docs.google.com/document/d/1rw54koD25HWjg2br34kbY6DQ6gXMQVBQe2k7fQTbwhk/view)
-* [Max RM's Twitter](https://twitter.com/Max_RM_)
-* [Max RM's GitHub](https://github.com/max-rm)
-* [TNT Entertainment on RuTube](https://rutube.ru/channel/29904568/)
-* [Tnt Entertainment on YouTube](https://www.youtube.com/@TNT_ENTERTAINMENT)
-* [Minecraft Development Leaks Community](https://t.me/MDLC_main)
 * [Anti P2W Movement: Bedrock Edition](https://discord.gg/antip2w)
-* [MC China Lab](https://discord.gg/k3yv4CMbSR)
-* [Minecraft for Windows 10 Topic in CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)
+
 * Minecraft: Bedrock Edition [L] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [Microsoft Store-Rip]
   Unavailable 
 {: .label .label-red } 
 
-* [Minecraft: China Edition [P] [RUS + ENG + 22] (2017, Simulation) (1.18.36 / 1.17.3 / 1.16.12) [Portable]](https://rutracker.org/forum/viewtopic.php?t=6443700)
-* [Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]](https://rutracker.org/forum/viewtopic.php?t=6444229))
-* [Minecraft DLC Archives](https://discord.gg/eDpasTFmRr)
-* [Minecraft Developer Edition Community](https://t.me/minecraft_developer)
-* [Minecraft for Windows 10 Appx Archive](https://t.me/MPC_MCBE_UWP)
-* [Bluecoin archive](https://t.me/archivebluecoin)
-* [Minecraft Bedrock Developer Edition Discussion Community / #boycottmojang](https://t.me/boycottmojang)
-* [MC Users chat](https://t.me/mdlc_public)
-* [The Pillager Bay](https://t.me/ThePillagerBay)
-* [MC Users Channel](https://t.me/minecraft_china_dev)
-* [Minecraft Bedrock Developer Edition Discussion Community Announcements](https://t.me/antimojang)
-* [Minecraft EE \| China Modded Collection](https://t.me/minecraft_modded_collection)
-* [Инструкции и описание / MDLC Manuals](https://t.me/MDLC_manuals)
-* [Minecraft Modified versions archive](https://t.me/minecraft_china_dev_mod)
-* [Minecraft dev archive](https://t.me/MinecraftDevLeaks)
-* [MDLC Redirect](https://t.me/MDLC_redirect)
-* [MDLC_manuals N](https://t.me/MDLCmanuals)
-* [MDLC News \[ENG\]](https://t.me/mdlc_news_eng)
-* [Bedrock Archive](https://t.me/bedrockarchive)
-* [TNT ENTERTAINMENT inc](https://t.me/TNT_ENTERTAINMENT_inc)
+## Documents
+
+* [Transfer of Ownership of MCDEV to Sberchan](https://docs.google.com/document/d/1NI2Id-fdEeTtLE6eZncvjggdowcClIgEWzifWZiyPgM)
+* [MCDEV Manifesto](https://docs.google.com/document/d/1rw54koD25HWjg2br34kbY6DQ6gXMQVBQe2k7fQTbwhk/view)
+
+## Videos
+
+* [MDLC Video Archive](https://rutube.ru/channel/26457757/)
+* [TNT Entertainment on RuTube](https://rutube.ru/channel/29904568/)
+* [Tnt Entertainment on YouTube](https://www.youtube.com/@TNT_ENTERTAINMENT)
+
+## Accounts
+
+* [Max RM's Twitter](https://twitter.com/Max_RM_)
+* [Max RM's GitHub](https://github.com/max-rm)
+* [Tinedpakgamer's Twitter](https://twitter.com/tinedpakgamer)
