@@ -48,7 +48,9 @@ nav_order: 7
 * [MC China Lab](https://discord.gg/k3yv4CMbSR)
 * [Minecraft for Windows 10 Topic in CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)
 * Minecraft: Bedrock Edition [L] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [Microsoft Store-Rip]
-Unavailable {: .label .label-red } 
+  Unavailable 
+{: .label .label-red } 
+
 * [Minecraft: China Edition [P] [RUS + ENG + 22] (2017, Simulation) (1.18.36 / 1.17.3 / 1.16.12) [Portable]](https://rutracker.org/forum/viewtopic.php?t=6443700)
 * [Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]](https://rutracker.org/forum/viewtopic.php?t=6444229))
 * [Minecraft DLC Archives](https://discord.gg/eDpasTFmRr)
