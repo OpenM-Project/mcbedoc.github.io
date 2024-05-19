@@ -7,17 +7,18 @@ nav_order: 8
 
 ### To do
 
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Make Search border  
 - [ ] Recreate openm.tech website  
 - [ ] Complete easter egg  
 
 ### Work In Progress
 
-- [ ] Add DMCA notice  
+- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 
 ### Done
 
+- [ ] Not associated with M Centres & Mojang/Microsoft  
+- [ ] Add DMCA notice  
 - [ ] Configure _config.yml  
 - [ ] Make better page URLs  
 - [ ] Remove /docs from URL  
