@@ -8,18 +8,18 @@ nav_order: 8
 ### To do
 
 - [ ] Add content to MCD, MCL, all childrens of Android and iOS  
-- [ ] Make better page URLs  
 - [ ] Make Search border  
 - [ ] Recreate openm.tech website  
-- [ ] Add DMCA notice  
-- [ ] Configure _config.yml  
+- [ ] Complete easter egg  
 
 ### Work In Progress
 
-- [ ] Complete easter egg  
+- [ ] Add DMCA notice  
 
 ### Done
 
+- [ ] Configure _config.yml  
+- [ ] Make better page URLs  
 - [ ] Remove /docs from URL  
 - [ ] Better TODO  
 - [ ] Make it look neat as possible  
