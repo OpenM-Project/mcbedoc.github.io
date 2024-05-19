@@ -1,9 +1,15 @@
 ---
 layout: default
-title: Resources
+title: Miscellaneous
 nav_exclude: false
 nav_order: 7
 ---
+
+# Miscellaneous 
+
+## Articles
+
+* [Bedrock Developer Beta](https://minecraft.wiki/w/Bedrock_Developer_Beta)
 
 ## Communitys
 
@@ -12,6 +18,8 @@ nav_order: 7
 * [Minecraft Forums Community](https://www.mc-forums.com/)
 * [Minecraft Bedrock Developer Edition Discussion Community / #boycottmojang](https://t.me/boycottmojang)
 * [MC Users chat](https://t.me/mdlc_public)
+* [TNT ENTERTAINMENT inc](https://t.me/TNT_ENTERTAINMENT_inc)
+* [Minecraft Developer Edition Community](https://t.me/minecraft_developer)
 
 ## Documents
 
@@ -29,3 +37,22 @@ nav_order: 7
 * [Max RM's Twitter](https://twitter.com/Max_RM_)
 * [Max RM's GitHub](https://github.com/max-rm)
 * [Tinedpakgamer's Twitter](https://twitter.com/tinedpakgamer)
+
+## Archives
+
+* [Bedrock Archive](https://t.me/bedrockarchive)
+* [Shytz](https://shytz.net/)
+
+## Deleted/Copyrighted Contents
+
+* [Minecraft Dev Archive](https://t.me/MinecraftDevLeaks)
+
+
+<h2>MDLC Collection</h2>
+    <ul>
+        <li><a href="https://t.me/MDLC_redirect">MDLC Redirect</a></li>
+        <li><a href="https://t.me/MDLCmanuals">MDLC_manuals N</a></li>
+        <li><a href="https://t.me/mdlc_news_eng">MDLC News [ENG]</a></li>
+        <li><a href="https://t.me/MDLC_main">Minecraft Development Leaks Community</a></li>
+        <li><a href="https://t.me/MDLC_manuals">Инструкции и описание / MDLC Manuals</a></li>
+    </ul>

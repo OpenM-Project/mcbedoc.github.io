@@ -49,3 +49,5 @@ Minecraft Bedrock Developer Edition Discussion Community Announcements|[Telegram
 MC China Lab|[Telegram](https://discord.gg/k3yv4CMbSR)|\-|**Yes**|Minecraft China Modding Discussion
 #boycottmojang MCDEV Discussion|[Discord](https://discord.gg/8ZhXxD7bfG)|\-|**Yes**|MCDEV Discord
 Assertion Fixer|[GitHub](https://github.com/Max-RM/assertion-fixer/releases)|[GitHub](https://github.com/Max-RM/assertion-fixer)|**Yes**|A script that automatically fixes "assertions" for the Chinese Minecraft Bedrock Edition - (McChinaDev)/(ModPC)
+Minecraft Modified versions archive|[Telegram](https://t.me/minecraft_china_dev_mod)|\-|**Yes**|Minecraft China Modified Archive
+MC Users Channel|[Telegram](https://t.me/minecraft_china_dev)|\-|**Yes**|Minecraft China Developer Posts

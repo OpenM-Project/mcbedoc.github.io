@@ -23,7 +23,7 @@ nav_order: 1
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
 🌟 M Centres 4.5|[Discord](https://dsc.gg/mcenters)|Closed-Source|**Yes**|**DLL Replacing**
-⭐ Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main)|Closed-source|**Yes**|**Cracked Appx**
+⭐ Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main)[Telegram 2](https://t.me/MPC_MCBE_UWP)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ online-fix\.me's Launcher|[Website](https://online-fix.me/games/sandbox/16708-minecraft-for-windows-10-po-seti.html)|Closed-source|**Yes**|**I-MCM**
 ⭐ OptiCraft|[Website](https://optijuegos.github.io/)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ Zhmurkov Launcher|[Website](https://zhmurkov.ru/)|Closed-source|**Yes**|**Cracked Appx**
@@ -67,7 +67,7 @@ MCli|[GitHub](https://raw.githubusercontent.com/mcrax/mcli/main/MCli.py)|[GitHub
 McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|Maybe|Decrypting Marketplace Content
 Secret-Minecraft-marketplace-products|[PixelDrain](https://pixeldrain.com/u/TeFv567Z)|~~PixelDrain~~|No|List of unavalible marketplace items
 Testcoin|[Telegram](https://t.me/archivebluecoin)|[Telegram](https://t.me/archivebluecoin)|**Yes**|Decrypting Marketplace Content
-ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypting Marketplace Content
+ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypted Marketplace Contents
 RobLauncher|[GitHub](https://github.com/OptiJuegos/RobLauncher/releases)|[GitHub](https://github.com/OptiJuegos/RobLauncher)|**Yes**|Collections of tools
 Mcappx|[Website](https://www.mcappx.com/)|Closed-source|**Yes**|A third-party game resource platform that focuses on providing all versions of Minecraft for Windows
 AutoModificator|[GitHub](https://github.com/Max-RM/AutoModificator)|[GitHub](https://github.com/Max-RM/AutoModificator/releases)|**Yes**| Unlocking height limit and piston push limit
@@ -76,3 +76,4 @@ Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=9015
 Mc Persona|[PixelDrain](https://pixeldrain.com/u/gn9BuMTG)|[Telegram](https://t.me/c/2071756372/1758)|Maybe|Persona decryptor
 BlueCoin|[Telegram](https://t.me/archivebluecoin)|Closed-source|**Yes**|Decrypting Marketplace Content
 Minecraft Bedrock Leaks|[Website](https://shytz.net/Minecraft-Leaks/Windows-Leaks)|\-|**Yes**|Minecraft: Bedrock Edition Development version leaks
+Minecraft DLC Archives|[Discord](https://discord.gg/eDpasTFmRr)|\-|**Yes**|Decrypted Marketplace Contents
