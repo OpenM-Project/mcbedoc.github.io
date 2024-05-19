@@ -11,9 +11,6 @@ nav_order: 7
 
 * Minecraft: Bedrock Edition [L] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [Microsoft Store-Rip]
 
-  Unavailable 
-{: .label .label-red } 
-
 ## Documents
 
 * [Transfer of Ownership of MCDEV to Sberchan](https://docs.google.com/document/d/1NI2Id-fdEeTtLE6eZncvjggdowcClIgEWzifWZiyPgM)
