@@ -8,6 +8,10 @@ nav_order: 7
 ## Communitys
 
 * [Anti P2W Movement: Bedrock Edition](https://discord.gg/antip2w)
+* [M Community](https://discord.gg/h7ke59TwgS)
+* [Minecraft Forums Community](https://www.mc-forums.com/)
+* [Minecraft Bedrock Developer Edition Discussion Community / #boycottmojang](https://t.me/boycottmojang)
+* [MC Users chat](https://t.me/mdlc_public)
 
 ## Documents
 

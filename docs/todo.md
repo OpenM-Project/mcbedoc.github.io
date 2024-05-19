@@ -7,16 +7,12 @@ nav_order: 9
 
 # To do
 
-* [M Community](https://discord.gg/h7ke59TwgS)
 * [Shytz](https://shytz.net/)
 * [Bedrock Developer Beta](https://minecraft.wiki/w/Bedrock_Developer_Beta)
-* [Minecraft Forums Community](https://www.mc-forums.com/)
 * [Minecraft Development Leaks Community](https://t.me/MDLC_main)
 * [Minecraft DLC Archives](https://discord.gg/eDpasTFmRr)
 * [Minecraft Developer Edition Community](https://t.me/minecraft_developer)
 * [Minecraft for Windows 10 Appx Archive](https://t.me/MPC_MCBE_UWP)
-* [Minecraft Bedrock Developer Edition Discussion Community / #boycottmojang](https://t.me/boycottmojang)
-* [MC Users chat](https://t.me/mdlc_public)
 * [The Pillager Bay](https://t.me/ThePillagerBay)
 * [MC Users Channel](https://t.me/minecraft_china_dev)
 * [Инструкции и описание / MDLC Manuals](https://t.me/MDLC_manuals)
