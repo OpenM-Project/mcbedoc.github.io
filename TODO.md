@@ -20,6 +20,7 @@ nav_order: 8
 
 ### Done
 
+- [ ] Remove /docs from URL  
 - [ ] Better TODO  
 - [ ] Make it look neat as possible  
 - [ ] Make and Add content to mentions and miscellaneous  
