@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DMCA Notice - Minecraft Bedrock Edition Cracks
+title: DMCA Notice
 nav_order: 9
 has_children: false
 permalink: /dmca
