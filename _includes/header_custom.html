@@ -12,8 +12,8 @@
 
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
-    console.log("Current theme: " + currentTheme); // Debug line
     jtd.setTheme(currentTheme);
+    switchIcons(currentTheme);
 
     function switchTheme(event) {
         event.preventDefault();
@@ -24,14 +24,11 @@
     }
 
     function switchIcons(theme) {
-        var iconSuffix = theme === 'dark' ? 'd' : 'w';
-        console.log("Icon suffix: " + iconSuffix); // Debug line
-        document.getElementById('GitHubIcon').src = "/assets/images/github_" + iconSuffix + ".png";
-        document.getElementById('DiscordIcon').src = "/assets/images/discord_" + iconSuffix + ".png";
-        document.getElementById('RedditIcon').src = "/assets/images/reddit_" + iconSuffix + ".png";
-        document.getElementById('WebsiteIcon').src = "/assets/images/web_" + iconSuffix + ".png";
-        document.getElementById('themeIcon').src = "/assets/images/theme_switch_" + iconSuffix + ".png";
+        var icons = ['RedditIcon', 'WebsiteIcon', 'themeIcon'];
+        icons.forEach(function(iconId) {
+            var icon = document.getElementById(iconId);
+            var src = icon.src;
+            icon.src = theme === 'dark' ? src.replace('_g.png', '_w.png') : src.replace('_w.png', '_g.png');
+        });
     }
-
-    switchIcons(currentTheme);
 </script>
