@@ -12,8 +12,8 @@ permalink: /
 An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 {: .fs-6 .fw-300 }
 
-[**Browse Document**](/docs/windows){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[**The Story**](docs/the-story/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[**Browse Document**](/windows){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[**The Story**](/the-story/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -48,4 +48,4 @@ email, or any other method with the owners of this repository before making a ch
 [MCBEDOC Repo]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
 [MCBEDOC README]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/blob/main/README.md
 [OpenM]: https://openm.tech/
-[Mentions]: {% link docs/mentions.md %}
+[Mentions]: {% link /mentions.md %}

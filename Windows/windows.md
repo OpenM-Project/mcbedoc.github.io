@@ -3,7 +3,7 @@ layout: default
 title: Windows
 nav_order: 3
 has_children: true
-permalink: /docs/windows
+permalink: /windows
 ---
 
 # Windows Tools
