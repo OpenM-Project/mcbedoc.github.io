@@ -10,10 +10,11 @@ nav_order: 8
 - [ ] Make Search border  
 - [ ] Recreate openm.tech website  
 - [ ] Complete easter egg  
+- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 
 ### Work In Progress
 
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
+- [ ] FIX RANDOM LOADING STUFF  
 
 ### Done
 
