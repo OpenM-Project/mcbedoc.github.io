@@ -28,7 +28,7 @@ Stable
 
 <details>
 
-<summary>The first method - ClipSVC</summary>
+<summary>The First Method - ClipSVC</summary>
 
 <blockquote>
 The First trick, discovered by tinedpakgamer, is the <b>ClipSVC Method</b>. With some registry code, you could force stop ClipSVC and prevent it from running in the background. After that, when you start Minecraft, it would buffer at 46% which you would then go and force stop Runtime Broker under Minecraft in Task Manager. And this worked! This was then packed into a program named M Centers by the discoverer. But, this method was the opposite of safe, as it breaks MS Store completely and on 10th October 2022, it got patched by Microsoft Sanity/Subscription Check Update.
@@ -40,7 +40,7 @@ The First trick, discovered by tinedpakgamer, is the <b>ClipSVC Method</b>. With
 
 <details>
 
-<summary>The second method - DLL Replacing</summary>
+<summary>The Second Method - DLL Replacing</summary>
 
 <blockquote>
 Then came along a permanent method, the <b>DLL Replacing</b>. By replacing <code>Windows.ApplicationModel.Store.dll</code> with <i>Cracked DLLs</i> and making it say the game was licensed, Minecraft was able to be unlocked! This was the method used by Tinedpakgamer in M Centers, released as version 3.0 <i>(2.0 was a sentry launcher using precracked appx. It failed and got scraped)</i>. After M Centers 3.0 became commonly used, M Centers 3.3 was released which did the same thing, but fixed a bug in the previous version.
@@ -52,7 +52,7 @@ Then came along a permanent method, the <b>DLL Replacing</b>. By replacing <code
 
 <details>
 
-<summary>The third method - Online-fix.me</summary>
+<summary>The third method - Memory Manipulation</summary>
 
 <blockquote>
 In 2021, online-fix.me <i>(a well-known Russian site)</i> released their own version of memory injection crack, which became popular as well. After this, Tinedpakgamer developed M Centers 4.0 which added <b>Appx Download</b> and discarded some in-development methods like, <i>DLL RAM Patch</i>, <i>Store Purchase Crack</i> using pre-cracked dlls from a Github repository. M Centers 5.0 was released and it used <b>In-Memory Code Manipulation</b> without the need of any DLLs. This version also had a UWP app but it was tricky to install <i>(it needed Developer Mode to be enabled, and made users install his self-signing certificate which was not secure at all)</i>. M Centers 6.0 was released, but it was just a re-made UI for the exact same app <i>(it was intended to provide auto-patching DLLs, but it was never done).</i>
@@ -90,7 +90,7 @@ While M Centers was slowly shutting down, a user named SOMEONE#1060 created a se
 
 <details>
 
-<summary>M Community YouTube</summary>
+<summary>MCenters 7.0</summary>
 
 <blockquote>
 Later, a video titled something along the lines of "How to get MCBE for free" blew up. This video had linked the M Community server, which caused it to get lots of members. This soon led to M Centers joining the server and uploading M Centers 7.0 <i>(also known as Akshnav Launcher)</i> which also used <i>In-Memory Code Manipulation</i>. But this method had some issues.
@@ -116,7 +116,7 @@ It was basically closed-source, it got frequently flagged by AV software as a vi
 
 <details>
 
-<summary>The decompilation</summary>
+<summary>The Decompilation</summary>
 
 <blockquote>
 Developers in M Community started work on decompiling Akshnav, cleaning it up and the sorts. This led nowhere in the end, but it was still a helpful resource to get an idea of how it was done. This work was done under M Community-Development.
@@ -171,7 +171,7 @@ OpenM has been aborted, as soyeonswife63 retired on OpenM to begin a new individ
 
 <details>
 
-<summary>M Centers join</summary>
+<summary>M Centers arrival</summary>
 
 <blockquote>
 Since MCenter's discontinuation, tinedpakgamer has become silent ever since, except in Twitter. But, as of 1st May 2024, he joined M Community and announced that he was working on M Centers 8.0, so, M Centers prevail!
@@ -183,7 +183,7 @@ Since MCenter's discontinuation, tinedpakgamer has become silent ever since, exc
 
 <details>
 
-<summary>M Centers YouTube</summary>
+<summary>M Centers 4.5</summary>
 
 <blockquote>
 First, tinedpakgamer revived the <a href="https://www.youtube.com/channel/UCM1jM7NWXvt8roj8mzMvhfw">Youtube Channel</a>. He then created the <a href="https://dsc.gg/mcenters">Discord Server</a> in which, on 8th May 2024, officially released M Centers 4.5 [The base code of M Centers 8.0]. It uses DLL Replacing, just like 4.0, but used .NET Framework replacing .NET Core, in which removes the requirement of .NET Runtime in your device. It also has an x86 version, but mainly it adds a <i>secret function</i>. The program can also be used with other UWP applications.
