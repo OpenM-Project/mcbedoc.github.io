@@ -493,7 +493,6 @@ jtd.getTheme = function() {
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
   cssFile.setAttribute('href', '{{ "assets/css/just-the-docs-" | relative_url }}' + theme + '.css');
-  cssFile.style.transition = 'all 0.3s ease-in-out'; // Add transition effect
 }
 
 // Note: pathname can have a trailing slash on a local jekyll server
