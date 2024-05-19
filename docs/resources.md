@@ -10,6 +10,7 @@ nav_order: 7
 * [Anti P2W Movement: Bedrock Edition](https://discord.gg/antip2w)
 
 * Minecraft: Bedrock Edition [L] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [Microsoft Store-Rip]
+
   Unavailable 
 {: .label .label-red } 
 
