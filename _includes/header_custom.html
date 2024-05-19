@@ -14,7 +14,6 @@
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
     console.log("Current theme: " + currentTheme); // Debug line
     jtd.setTheme(currentTheme);
-    switchIcons(currentTheme);
 
     function switchTheme(event) {
         event.preventDefault();
@@ -33,4 +32,6 @@
         document.getElementById('WebsiteIcon').src = "/assets/images/web_" + iconSuffix + ".png";
         document.getElementById('themeIcon').src = "/assets/images/theme_switch_" + iconSuffix + ".png";
     }
+
+    switchIcons(currentTheme);
 </script>
