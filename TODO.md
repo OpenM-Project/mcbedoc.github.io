@@ -7,17 +7,17 @@ nav_order: 8
 
 ### To do
 
-- [ ] Make Search border  
 - [ ] Recreate openm.tech website  
-- [ ] Complete easter egg  
 - [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 
 ### Work In Progress
 
-- [ ] FIX RANDOM LOADING STUFF  
+- [ ] Make Search border  
+- [ ] Complete easter egg (waiting for Google)  
 
 ### Done
 
+- [ ] FIX RANDOM LOADING STUFF  
 - [ ] Not associated with M Centres & Mojang/Microsoft  
 - [ ] Add DMCA notice  
 - [ ] Configure _config.yml  
