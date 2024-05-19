@@ -13,11 +13,22 @@
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
     jtd.setTheme(currentTheme);
+    switchIcons(currentTheme);
 
     function switchTheme(event) {
         event.preventDefault();
         currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
         jtd.setTheme(currentTheme);
         localStorage.setItem('theme', currentTheme);
+        switchIcons(currentTheme);
+    }
+
+    function switchIcons(theme) {
+        var iconSuffix = theme === 'dark' ? 'd' : 'w';
+        document.getElementById('GitHubIcon').src = "/assets/images/github_" + iconSuffix + ".png";
+        document.getElementById('DiscordIcon').src = "/assets/images/discord_" + iconSuffix + ".png";
+        document.getElementById('RedditIcon').src = "/assets/images/reddit_" + iconSuffix + ".png";
+        document.getElementById('WebsiteIcon').src = "/assets/images/web_" + iconSuffix + ".png";
+        document.getElementById('themeIcon').src = "/assets/images/theme_switch_" + iconSuffix + ".png";
     }
 </script>
