@@ -12,6 +12,7 @@
 
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
+    console.log("Current theme: " + currentTheme); // Debug line
     jtd.setTheme(currentTheme);
     switchIcons(currentTheme);
 
@@ -25,6 +26,7 @@
 
     function switchIcons(theme) {
         var iconSuffix = theme === 'dark' ? 'd' : 'w';
+        console.log("Icon suffix: " + iconSuffix); // Debug line
         document.getElementById('GitHubIcon').src = "/assets/images/github_" + iconSuffix + ".png";
         document.getElementById('DiscordIcon').src = "/assets/images/discord_" + iconSuffix + ".png";
         document.getElementById('RedditIcon').src = "/assets/images/reddit_" + iconSuffix + ".png";
