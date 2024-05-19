@@ -48,11 +48,10 @@ nav_order: 7
 * [Minecraft Dev Archive](https://t.me/MinecraftDevLeaks)
 
 
-<h2>MDLC Collection</h2>
-    <ul>
-        <li><a href="https://t.me/MDLC_redirect">MDLC Redirect</a></li>
-        <li><a href="https://t.me/MDLCmanuals">MDLC_manuals N</a></li>
-        <li><a href="https://t.me/mdlc_news_eng">MDLC News [ENG]</a></li>
-        <li><a href="https://t.me/MDLC_main">Minecraft Development Leaks Community</a></li>
-        <li><a href="https://t.me/MDLC_manuals">Инструкции и описание / MDLC Manuals</a></li>
-    </ul>
+## MDLC Collection
+
+* [MDLC Redirect](https://t.me/MDLC_redirect)
+* [MDLC_manuals N](https://t.me/MDLCmanuals)
+* [MDLC News [ENG]](https://t.me/mdlc_news_eng)
+* [Minecraft Development Leaks Community](https://t.me/MDLC_main)
+* [Инструкции и описание / MDLC Manuals](https://t.me/MDLC_manuals)
