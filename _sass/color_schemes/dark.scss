@@ -15,8 +15,4 @@ $search-background-color: #2e2e32;
 $search-result-preview-color: #dfdfd6;
 $border-color: #2e2e32;
 
-.body {
-    transition: background-color 0.5s ease, color 0.5s ease;
-  }
-
 @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
