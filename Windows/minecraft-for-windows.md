@@ -5,6 +5,26 @@ parent: Windows
 nav_order: 1
 ---
 
+<div class="center">
+  <img src="/assets/images/docs/minecraft.png" alt="Minecraft for Windows" class="center-image">
+</div>
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .center-image {
+    max-width: 100%; /* This will make the image responsive */
+    margin: auto;
+  }
+</style>
+
+<br>
+
 # Unlockers for Minecraft for Windows
 
 {: .note-title }
