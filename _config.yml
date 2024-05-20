@@ -181,7 +181,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
-  - jekyll-admin
 
 kramdown:
   syntax_highlighter_opts:
@@ -197,12 +196,3 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
