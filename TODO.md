@@ -6,17 +6,19 @@ nav_exclude: true
 
 ### To do
 
+- [ ] Minecraft Dungeons  
+- [ ] Android - Normal & Dev  
+- [ ] IOS - Normal & Dev  
 - [ ] Recreate openm.tech website  
-- [ ] Add Minecraft font  
 
 ### Work In Progress
 
-- [ ] Add Cross Platform things  
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
-- [ ] Complete easter egg (waiting for Google)  
+- [ ] Cross Platform  
 
 ### Done
 
+- [ ] Add Minecraft font  
+- [ ] Complete easter egg (waiting for Google)  
 - [ ] Add Images to every site  
 - [ ] Make Search border  
 - [ ] FIX RANDOM LOADING STUFF  
