@@ -23,6 +23,8 @@ nav_order: 6
   }
 </style>
 
+<br>
+
 Name | Link | Source code | Is it maintained? | Description
 ------ | ------ | ------ | ------| ------
 Legends Wiki Docs|[Website](https://docs.legendsmodding.com/)|[GitHub](https://github.com/LegendsModding/ModdingDocs)|**Yes**|A place to view known documentation for modding the popular game Minecraft: Legends
