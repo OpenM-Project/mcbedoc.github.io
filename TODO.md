@@ -6,6 +6,7 @@ nav_exclude: true
 
 ### To do
 
+- [ ] Cross Platform  
 - [ ] Minecraft Dungeons  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
@@ -13,7 +14,8 @@ nav_exclude: true
 
 ### Work In Progress
 
-- [ ] Cross Platform  
+- [ ] Add MCBEDOC logo on the Home Page Top-Left Corner  
+- [ ] Change MCBEDOC logo's font to Mojangles  
 
 ### Done
 
