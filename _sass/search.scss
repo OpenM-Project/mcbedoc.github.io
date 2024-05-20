@@ -52,7 +52,7 @@
   border-right: 1;
   border-bottom: 1;
   border-left: 1;
-  border-radius: 2;
+  border-radius: 15;
 
   @include mq(md) {
     padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing + $sp-5};
