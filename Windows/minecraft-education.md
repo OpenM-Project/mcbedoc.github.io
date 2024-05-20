@@ -18,12 +18,11 @@ nav_order: 3
   }
 
   .center-image {
-    max-width: 75%; /* This will make the image responsive */
+    max-width: 100%; /* This will make the image responsive */
     margin: auto;
   }
 </style>
 
-<br>
 
 <div markdown=1>
 
