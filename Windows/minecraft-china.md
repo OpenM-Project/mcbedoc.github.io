@@ -19,7 +19,7 @@ nav_order: 5
   }
 
   .center-image {
-    max-width: 100%; /* This will make the image responsive */
+    max-width: 50%; /* This will make the image responsive */
     margin: auto;
   }
 </style>
