@@ -43,6 +43,7 @@
   position: absolute;
   width: 80%; // Adjust this to make the search box smaller
   height: 80%; // Adjust this to make the search box smaller
+  margin: auto; // Center the search box
   padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing-sm + $sp-5};
   font-size: 1rem;
   color: $body-text-color;
