@@ -41,7 +41,7 @@
 
 .search-input {
   position: absolute;
-  width: 80%; // Adjust this to make the search box smaller
+  width: 100%; // Adjust this to make the search box smaller
   height: 80%; // Adjust this to make the search box smaller
   padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing-sm + $sp-5};
   font-size: 1rem;
