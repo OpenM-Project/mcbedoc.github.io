@@ -12,7 +12,7 @@ permalink: /
 An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 {: .fs-6 .fw-300 }
 
-[**Browse Document**](/windows){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[**Browse Collection**](/windows){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [**The Story**](story/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [**DMCA**](/dmca){: .btn .btn-blue .fs-5 .mr-2}
 [View this on GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
