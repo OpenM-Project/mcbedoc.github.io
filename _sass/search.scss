@@ -40,7 +40,7 @@
 }
 
 .search-input {
-  position: absolute;
+  position: relative; // Make it relative to the search input wrap
   width: 80%; // Adjust this to make the search box smaller
   height: 80%; // Adjust this to make the search box smaller
   margin: auto; // Center the search box
@@ -76,7 +76,7 @@
 .search-label {
   position: absolute;
   display: flex;
-  height: 100%;
+  height: 80%;
   padding-left: $gutter-spacing-sm;
 
   @include mq(md) {
