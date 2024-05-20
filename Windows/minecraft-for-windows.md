@@ -30,7 +30,7 @@ Name | Download | Source code | Is it maintained? | Method
 MCentresDLLs|[GitHub](https://github.com/Max-RM/mcenterdlls/archive/refs/heads/main.zip)|[GitHub](https://github.com/Max-RM/mcenterdlls)|**Yes**|Cracked DLLs for Minecraft BE
 ~~Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]~~|[RuTracker](https://rutracker.org/forum/viewtopic.php?t=6444229)|\-|**Yes**|**Cracked Appx**
 Minecraft for Windows 10 Topic|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|\-|**Yes**|Multiple Methods
-BEAMinject|[Website](https://openm.tech/BEAMinject/)|[GitHub](https://github.com/OpenM-Project/BEAMinject)|Maybe|**DMM**
+BEAMinject|[Website](https://openm.tech/BEAMinject/)|[GitHub](https://github.com/OpenM-Project/BEAMinject)|*Maybe*|**DMM**
 Minecraft For Windows Launcher|[GitHub](https://github.com/jiesou/MFWL-Minecraft-For-Windows-Unlock-Launcher/archive/refs/heads/main.zip)|[GitHub](https://github.com/jiesou/MFWL-Minecraft-For-Windows-Unlock-Launcher)|No|DLL Replacing
 BlueSky Launcher|[GitHub](https://github.com/fym35/BlueSky) [PixelDrain](https://pixeldrain.com/u/indVkp1F)|[GitHub](https://pixeldrain.com/u/indVkp1F) forked from [FishiaT](https://github.com/FishiaT)|No|ClipSVC, SetACL, Bluesky Mode
 CODEX's crack|[GitHub](https://github.com/ClickNin/mcwin10-codexemulator/archive/refs/heads/master.zip)|[GitHub](https://github.com/ClickNin/mcwin10-codexemulator)|No|Patching MC's files
@@ -63,8 +63,9 @@ XenonLauncher|[GitHub](https://github.com/charlie272/XenonLauncher/archive/refs/
 Name | Download | Source code | Is it maintained?| Description
 ------ | ------ | ------ | ------| ------
 MCLauncher|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher/releases)|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher)|**Yes**|Multi-version launcher for Minecraft
+Betacraft|[Website](https://betacraft.uk/)|[Github](https://github.com/betacraftuk/betacraft-launcher/)|*Maybe*|Multi-version launcher for Minecraft Beta Versions
 MCli|[GitHub](https://raw.githubusercontent.com/mcrax/mcli/main/MCli.py)|[GitHub](https://github.com/mcrax/mcli)|No|UUID downloading
-McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|Maybe|Decrypting Marketplace Content
+McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|*Maybe*|Decrypting Marketplace Content
 Secret-Minecraft-marketplace-products|[PixelDrain](https://pixeldrain.com/u/TeFv567Z)|~~PixelDrain~~|No|List of unavalible marketplace items
 Testcoin|[Telegram](https://t.me/archivebluecoin)|[Telegram](https://t.me/archivebluecoin)|**Yes**|Decrypting Marketplace Content
 ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypted Marketplace Contents
@@ -73,7 +74,7 @@ Mcappx|[Website](https://www.mcappx.com/)|Closed-source|**Yes**|A third-party ga
 AutoModificator|[GitHub](https://github.com/Max-RM/AutoModificator)|[GitHub](https://github.com/Max-RM/AutoModificator/releases)|**Yes**| Unlocking height limit and piston push limit
 Bedrock Launcher|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher/releases)|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher)|**Yes**|Multi-version launcher for Minecraft with a good GUI
 Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|Closed-source|**Yes**|Skinpack unlocker
-Mc Persona|[PixelDrain](https://pixeldrain.com/u/gn9BuMTG)|[Telegram](https://t.me/c/2071756372/1758)|Maybe|Persona decryptor
+Mc Persona|[PixelDrain](https://pixeldrain.com/u/gn9BuMTG)|[Telegram](https://t.me/c/2071756372/1758)|*Maybe*|Persona decryptor
 BlueCoin|[Telegram](https://t.me/archivebluecoin)|Closed-source|**Yes**|Decrypting Marketplace Content
 Minecraft Bedrock Leaks|[Website](https://shytz.net/Minecraft-Leaks/Windows-Leaks)|\-|**Yes**|Minecraft: Bedrock Edition Development version leaks
 Minecraft DLC Archives|[Discord](https://discord.gg/eDpasTFmRr)|\-|**Yes**|Decrypted Marketplace Contents
