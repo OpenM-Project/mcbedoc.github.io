@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OpenM Members and Worth Mentioning
-nav_order: 6
+nav_order: 7
 ---
 
 # OpenMicrosoft Project's members
