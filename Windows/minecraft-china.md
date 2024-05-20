@@ -5,7 +5,26 @@ parent: Windows
 nav_order: 5
 ---
 
-# Tools for Minecraft China & Minecraft China Developer
+
+<div class="center">
+  <img src="/assets/images/docs/minecraft-china.png" alt="Minecraft China" class="center-image">
+</div>
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .center-image {
+    max-width: 100%; /* This will make the image responsive */
+    margin: auto;
+  }
+</style>
+
+<br>
 
 {: .note-title }
 > <b><u>Not only for Chinese players</u></b>
