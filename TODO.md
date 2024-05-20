@@ -15,7 +15,7 @@ nav_exclude: true
 ### Work In Progress
 
 - [ ] Add MCBEDOC logo on the Home Page Top-Left Corner  
-- [ ] Change MCBEDOC logo's font to Mojangles  
+- [ ] Make light mode compatible logo of MCBEDOC  
 
 ### Done
 
