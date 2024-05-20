@@ -23,7 +23,6 @@ nav_order: 1
   }
 </style>
 
-<br>
 
 # Unlockers for Minecraft for Windows
 
