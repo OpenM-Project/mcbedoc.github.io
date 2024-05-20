@@ -12,6 +12,7 @@ nav_order: 8
 
 ### Work In Progress
 
+- [ ] Add Cross Platform things  
 - [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Complete easter egg (waiting for Google)  
 
