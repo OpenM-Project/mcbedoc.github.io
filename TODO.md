@@ -8,15 +8,15 @@ nav_order: 8
 ### To do
 
 - [ ] Recreate openm.tech website  
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 
 ### Work In Progress
 
-- [ ] Make Search border  
+- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Complete easter egg (waiting for Google)  
 
 ### Done
 
+- [ ] Make Search border  
 - [ ] FIX RANDOM LOADING STUFF  
 - [ ] Not associated with M Centres & Mojang/Microsoft  
 - [ ] Add DMCA notice  
