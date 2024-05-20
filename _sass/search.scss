@@ -47,11 +47,11 @@
   font-size: 1rem;
   color: $body-text-color;
   background-color: $search-background-color;
-  border-top: 0;
-  border-right: 0;
-  border-bottom: 0;
-  border-left: 0;
-  border-radius: 0;
+  border-top: 1;
+  border-right: 1;
+  border-bottom: 1;
+  border-left: 1;
+  border-radius: 2;
 
   @include mq(md) {
     padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing + $sp-5};
