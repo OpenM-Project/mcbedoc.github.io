@@ -14,11 +14,11 @@ nav_order: 6
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Adjust this value as needed */
   }
 
   .center-image {
     max-width: 100%; /* This will make the image responsive */
+    margin: auto;
   }
 </style>
 
