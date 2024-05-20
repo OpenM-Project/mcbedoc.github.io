@@ -5,7 +5,24 @@ parent: Windows
 nav_order: 6
 ---
 
-# Code
+<div class="center">
+  <img src="assets/images/docs/minecraft-legends.png" alt="Minecraft Legends" class="center-image">
+</div>
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this value as needed */
+  }
+
+  .center-image {
+    max-width: 100%; /* This will make the image responsive */
+  }
+</style>
+
+# Minecraft Legends
 {: .no_toc }
 
 ## Table of contents
