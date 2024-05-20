@@ -52,6 +52,7 @@
   border-right: 4px;
   border-bottom: 4px;
   border-left: 4px;
+  border: 1px solid #000; // Add this line
   border-radius: 15px;
 
   @include mq(md) {
