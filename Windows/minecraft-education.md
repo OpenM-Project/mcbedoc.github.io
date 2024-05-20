@@ -5,9 +5,25 @@ parent: Windows
 nav_order: 3
 ---
 
-# Unlockers for Minecraft Education
-New
-{: .label .label-green }
+<div class="center">
+  <img src="/assets/images/docs/minecraft-education.png" alt="Minecraft Education" class="center-image">
+</div>
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .center-image {
+    max-width: 22%; /* This will make the image responsive */
+    margin: auto;
+  }
+</style>
+
+<br>
 
 <div markdown=1>
 
