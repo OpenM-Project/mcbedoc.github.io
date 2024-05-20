@@ -7,11 +7,13 @@ nav_order: 8
 
 ### To do
 
+- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Recreate openm.tech website  
 
 ### Work In Progress
 
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
+- [ ] Add Minecraft font  
+- [ ] Add Images to every site  
 - [ ] Complete easter egg (waiting for Google)  
 
 ### Done
