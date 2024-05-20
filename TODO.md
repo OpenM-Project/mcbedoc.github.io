@@ -7,41 +7,41 @@ nav_order: 8
 
 ### To do
 
-- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Recreate openm.tech website  
+- [ ] Add Minecraft font  
 
 ### Work In Progress
 
-- [ ] Add Minecraft font  
-- [ ] Add Images to every site  
+- [ ] Add content to MCD, MCL, all childrens of Android and iOS  
 - [ ] Complete easter egg (waiting for Google)  
 
 ### Done
 
-- [x] Make Search border  
-- [x] FIX RANDOM LOADING STUFF  
-- [x] Not associated with M Centres & Mojang/Microsoft  
-- [x] Add DMCA notice  
-- [x] Configure _config.yml  
-- [x] Make better page URLs  
-- [x] Remove /docs from URL  
-- [x] Better TODO  
-- [x] Make it look neat as possible  
-- [x] Make and Add content to mentions and miscellaneous  
-- [x] Add easter egg  
-- [x] Make a ReadMe  
-- [x] Change License  
-- [x] Modify 404  
-- [x] Add favicons  
-- [x] Disable crappy Workflows  
-- [x] Connect Domain  
-- [x] Remove useless files  
-- [x] Save theme  
-- [x] Add Todo  
-- [x] Split read more into more parts  
-- [x] Add Theme Switcher  
-- [x] Add & Fix Title logo and Icons  
-- [x] Add content to MCfW10, MCE, MCEE, MCC & The Story  
-- [x] Migrate MCBEDOC content  
-- [x] Mod the header, so we can add icons  
+- [ ] Add Images to every site  
+- [ ] Make Search border  
+- [ ] FIX RANDOM LOADING STUFF  
+- [ ] Not associated with M Centres & Mojang/Microsoft  
+- [ ] Add DMCA notice  
+- [ ] Configure _config.yml  
+- [ ] Make better page URLs  
+- [ ] Remove /docs from URL  
+- [ ] Better TODO  
+- [ ] Make it look neat as possible  
+- [ ] Make and Add content to mentions and miscellaneous  
+- [ ] Add easter egg  
+- [ ] Make a ReadMe  
+- [ ] Change License  
+- [ ] Modify 404  
+- [ ] Add favicons  
+- [ ] Disable crappy Workflows  
+- [ ] Connect Domain  
+- [ ] Remove useless files  
+- [ ] Save theme  
+- [ ] Add Todo  
+- [ ] Split read more into more parts  
+- [ ] Add Theme Switcher  
+- [ ] Add & Fix Title logo and Icons  
+- [ ] Add content to MCfW10, MCE, MCEE, MCC & The Story  
+- [ ] Migrate MCBEDOC content  
+- [ ] Mod the header, so we can add icons  
 
