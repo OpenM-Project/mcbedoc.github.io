@@ -48,10 +48,10 @@
   font-size: 1rem;
   color: $body-text-color;
   background-color: $search-background-color;
-  border-top: 1px;
-  border-right: 1px;
-  border-bottom: 1px;
-  border-left: 1px;
+  border-top: 4px;
+  border-right: 4px;
+  border-bottom: 4px;
+  border-left: 4px;
   border-radius: 15px;
 
   @include mq(md) {
