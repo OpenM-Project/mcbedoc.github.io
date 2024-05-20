@@ -22,8 +22,7 @@
   z-index: 1;
   height: $sp-8;
   overflow: hidden;
-  border-radius: 15px;
-  border: 1px solid #000; // Add this line
+  border-radius: $border-radius;
   box-shadow:
     0 1px 2px rgba(0, 0, 0, 0.12),
     0 3px 10px rgba(0, 0, 0, 0.08);
@@ -48,12 +47,11 @@
   font-size: 1rem;
   color: $body-text-color;
   background-color: $search-background-color;
-  border-top: 4px;
-  border-right: 4px;
-  border-bottom: 4px;
-  border-left: 4px;
-  border: 1px solid #000; // Add this line
-  border-radius: 15px;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  border-radius: 0;
 
   @include mq(md) {
     padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing + $sp-5};
@@ -63,7 +61,7 @@
   }
 
   &:focus {
-    outline: 4;
+    outline: 0;
 
     + .search-label .search-icon {
       color: $link-color;
