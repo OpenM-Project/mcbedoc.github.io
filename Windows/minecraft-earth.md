@@ -5,7 +5,27 @@ parent: Windows
 nav_order: 2
 ---
 
-# Tools for Minecraft: Earth
+
+<div class="center">
+  <img src="/assets/images/docs/minecraft-earth.png" alt="Minecraft Earth" class="center-image">
+</div>
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .center-image {
+    max-width: 50%; /* This will make the image responsive */
+    margin: auto;
+  }
+</style>
+
+<br>
+
 
 Name | Download | Source code | Is it maintained? | Description
 ------ | ------ | ------ | ------| ------
