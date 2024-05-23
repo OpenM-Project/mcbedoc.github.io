@@ -27,8 +27,8 @@ nav_order: 7
 
 Name | Download | Source code | Is it maintained? | Description
 ------ | ------ | ------ | ------| ------
-MCD Online-Fix | [Website](https://online-fix.me/games/rpg/16413-minecraft-dungeons-po-seti.html) | Closed-Source | Yes | Minecraft Dungeons patch with online-fix
-Minecraft Dungeons [P] [RUS + ENG + 12 / ENG + 8] (2020, RPG) (1.12.0.0. + 8 DLC) [Scene] | [Rutracker](https://rutracker.org/forum/viewtopic.php?t=5998861) | Closed-source | Yes | Minecraft: Dungeons PC patch with 8 DLCs
+MCD Online-Fix | [Website](https://online-fix.me/games/rpg/16413-minecraft-dungeons-po-seti.html) | - | Yes | Minecraft Dungeons patch with online-fix
+Minecraft Dungeons [P] [RUS + ENG + 12 / ENG + 8] (2020, RPG) (1.12.0.0. + 8 DLC) [Scene] | [Rutracker](https://rutracker.org/forum/viewtopic.php?t=5998861) | - | Yes | Minecraft: Dungeons PC patch with 8 DLCs
 MCD NexusMods | [Website](https://www.nexusmods.com/minecraftdungeons/mods/76) | - | - | A collection of Minecraft: Dungeons mods
 DungeonsModMerger | [Github](https://github.com/LukeFZ/DungeonsModMerger/releases) | [Github](https://github.com/LukeFZ/DungeonsModMerger) | No | Tool to merge Minecraft: Dungeons custom `.levelmod` files into one single .pak file
 DungeonsLevelLoader | [Gtihub](https://github.com/LukeFZ/DungeonsLevelLoader/releases) | [Github](https://github.com/LukeFZ/DungeonsLevelLoader) | No | A custom level loader for Minecraft: Dungeons
