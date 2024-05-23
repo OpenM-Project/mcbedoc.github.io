@@ -6,6 +6,7 @@ nav_exclude: true
 
 ### To do
 
+- [ ] Make an MCBEDOC icon and add it beside MCBEDOC
 - [ ] Cross Platform  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
@@ -13,8 +14,7 @@ nav_exclude: true
 
 ### Work In Progress
 
-- [ ] Add MCBEDOC logo on the Home Page Top-Left Corner  
-- [ ] Make light mode compatible logo of MCBEDOC
+- [ ] Make light mode compatible logo [icon] of MCBEDOC
 - [ ] Minecraft Dungeons  
 
 ### Done
