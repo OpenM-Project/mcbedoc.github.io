@@ -6,9 +6,8 @@ description: "MCBEDOC - An Ultimate Collection of Minecraft: Bedrock Edition Too
 permalink: /
 ---
 
-<body>
-<img src="assets/images/mcbedoc-website-title.png" alt="MCBEDOC Logo" class="index-website-logo">
-</body>
+<img src="assets/images/mcbedoc-website-title.png" alt="MCBEDOC Logo" class="index-website-logo" style="position: absolute; top: 0; right: 0;">
+
 # MCBEDOC
 {: .fs-9 }
 
