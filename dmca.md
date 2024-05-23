@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DMCA Notice
-nav_order: 7
+nav_order: 8
 has_children: false
 permalink: /dmca
 ---
