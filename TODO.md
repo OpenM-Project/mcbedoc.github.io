@@ -20,7 +20,7 @@ nav_exclude: true
 ### Done
 
 - [ ] Add Minecraft font  
-- [ ] Complete easter egg (waiting for Google)  
+- [ ] Complete easter egg
 - [ ] Add Images to every site  
 - [ ] Make Search border  
 - [ ] FIX RANDOM LOADING STUFF  
