@@ -30,6 +30,7 @@ Name | Link | Source code | Is it maintained? | Description
 Legends Wiki Docs|[Website](https://docs.legendsmodding.com/)|[GitHub](https://github.com/LegendsModding/ModdingDocs)|**Yes**|A place to view known documentation for modding the popular game Minecraft: Legends
 Mythos|[Website](https://mythos.legendsmodding.com/)|\-|**Yes**|Minecraft Legends Mod Collection
 Minecraft Legends Documentation|[GitHub](https://github.com/Mojang/minecraft-legends-docs/)|[GitHub](https://github.com/Mojang/minecraft-legends-docs/)|**Yes**|Houses public-facing documentation of content formats for Minecraft Legends
+Minecraft Legends [P] [RUS + ENG + 26 / RUS + ENG + 15] (2023, RTS) (1.18.14350) [Scene]|[RuTracker](https://rutracker.org/forum/viewtopic.php?t=6352728)|\-|\-|Minecraft Legends Crack by RUNE
 Blockbench|[Website](https://www.blockbench.net/)|[GitHub](https://github.com/JannisX11/blockbench)|**Yes**|A modeling tool used by most Minecraft modders for creating models, animations, and more
 Structure Editor|[Website](https://badger.lukefz.xyz/)|\-|**Yes**|Tool to edit structures in Minecraft Legends
 ContentLogEnabler|[GitHub](https://github.com/LegendsModding/ContentLogEnabler)|[GitHub](https://github.com/LegendsModding/ContentLogEnabler)|No|Frida script to print content log messages to console
