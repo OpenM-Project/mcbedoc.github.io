@@ -26,15 +26,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/assets/js/service-worker.js')
-      .then(function(registration) {
-        console.log('Service Worker Registered');
-      });
-    }
-  </script>
-
   <style id="jtd-nav-activation">
   {% include css/activation.scss.liquid %}
   </style>
