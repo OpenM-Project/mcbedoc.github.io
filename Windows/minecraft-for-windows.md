@@ -47,7 +47,8 @@ Name | Download | Source code | Is it maintained? | Method
 ⭐ OptiCraft|[Website](https://optijuegos.github.io/)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ Zhmurkov Launcher|[Website](https://zhmurkov.ru/)|Closed-source|**Yes**|**Cracked Appx**
 MCentresDLLs|[GitHub](https://github.com/Max-RM/mcenterdlls/archive/refs/heads/main.zip)|[GitHub](https://github.com/Max-RM/mcenterdlls)|**Yes**|Cracked DLLs for Minecraft BE
-~~Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]~~|[RuTracker](https://rutracker.org/forum/viewtopic.php?t=6444229)|\-|**Yes**|**Cracked Appx**
+Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]|[RuTracker](https://rutracker.org/forum/viewtopic.php?t=6444229)|\-|**Yes**|**Cracked Appx**
+\[DL] Minecraft: Bedrock Edition [L] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.81) [Microsoft Store-Rip]|[Rutracker](https://rutracker.org/forum/viewtopic.php?t=6440824)|\-|**Yes**|**Cracked Appx**
 Minecraft for Windows 10 Topic|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|\-|**Yes**|Multiple Methods
 BEAMinject|[Website](https://openm.tech/BEAMinject/)|[GitHub](https://github.com/OpenM-Project/BEAMinject)|*Maybe*|**DMM**
 Minecraft For Windows Launcher|[GitHub](https://github.com/jiesou/MFWL-Minecraft-For-Windows-Unlock-Launcher/archive/refs/heads/main.zip)|[GitHub](https://github.com/jiesou/MFWL-Minecraft-For-Windows-Unlock-Launcher)|No|DLL Replacing
