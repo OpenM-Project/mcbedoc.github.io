@@ -1,7 +1,9 @@
 ---
 layout: default
-title: OpenM Members and Worth Mentioning
+title: Credits
 nav_order: 7
+has_children: false
+permalink: /credits
 ---
 
 # OpenMicrosoft Project's members
