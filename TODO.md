@@ -7,7 +7,6 @@ nav_exclude: true
 ### To do
 
 - [ ] Cross Platform  
-- [ ] Minecraft Dungeons  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
 - [ ] Recreate openm.tech website  
@@ -15,12 +14,12 @@ nav_exclude: true
 ### Work In Progress
 
 - [ ] Add MCBEDOC logo on the Home Page Top-Left Corner  
-- [ ] Make light mode compatible logo of MCBEDOC  
+- [ ] Make light mode compatible logo of MCBEDOC
+- [ ] Minecraft Dungeons  
 
 ### Done
 
 - [ ] Add Minecraft font  
-- [ ] Complete easter egg
 - [ ] Add Images to every site  
 - [ ] Make Search border  
 - [ ] FIX RANDOM LOADING STUFF  
