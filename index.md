@@ -5,9 +5,9 @@ nav_exclude: true
 description: "MCBEDOC - An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers"
 permalink: /
 ---
-
+<html>
 <img src="assets/images/mcbedoc-website-title.png" alt="MCBEDOC Logo" class="index-website-logo" style="position: absolute; top: 0; right: 0;">
-
+</html>
 # MCBEDOC
 {: .fs-9 }
 
