@@ -2,7 +2,7 @@
 layout: default
 title: Miscellaneous
 nav_exclude: false
-nav_order: 6
+nav_order: 5
 ---
 
 # Miscellaneous 
@@ -50,6 +50,11 @@ nav_order: 6
 
 * [Minecraft Dev Archive](https://t.me/MinecraftDevLeaks)
 
+## DLC's
+
+### Maps, Skins, Packs...
+
+* [MCPEDL](https://mcpedl.com/) - Addons, Scripts, Maps, Servers, Skins, Skinpacks, Texture Packs, Shaders...
 
 ## MDLC Collection
 
