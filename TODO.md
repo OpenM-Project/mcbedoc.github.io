@@ -7,6 +7,7 @@ nav_exclude: true
 ### To do
 
 - [ ] Make an MCBEDOC icon and add it beside MCBEDOC
+- [ ] Add Stars to all Topics
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
 - [ ] Recreate openm.tech website  
@@ -14,7 +15,7 @@ nav_exclude: true
 ### Work In Progress
 
 - [ ] Make light mode compatible logo [icon] of MCBEDOC
-- [ ] Console
+- [ ] Console Edition
 
 ### Done
 
