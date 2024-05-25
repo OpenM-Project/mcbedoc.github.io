@@ -7,7 +7,6 @@ nav_exclude: true
 ### To do
 
 - [ ] Make an MCBEDOC icon and add it beside MCBEDOC
-- [ ] Cross Platform  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
 - [ ] Recreate openm.tech website  
@@ -15,10 +14,11 @@ nav_exclude: true
 ### Work In Progress
 
 - [ ] Make light mode compatible logo [icon] of MCBEDOC
-- [ ] Minecraft Dungeons  
+- [ ] Console
 
 ### Done
 
+- [ ] Minecraft Dungeons 
 - [ ] Add Minecraft font  
 - [ ] Add Images to every site  
 - [ ] Make Search border  
