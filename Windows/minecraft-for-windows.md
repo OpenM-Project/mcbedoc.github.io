@@ -89,6 +89,7 @@ McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|*Maybe*|De
 Secret-Minecraft-marketplace-products|[PixelDrain](https://pixeldrain.com/u/TeFv567Z)|~~PixelDrain~~|No|List of unavalible marketplace items
 Testcoin|[Telegram](https://t.me/archivebluecoin)|[Telegram](https://t.me/archivebluecoin)|**Yes**|Decrypting Marketplace Content
 ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypted Marketplace Contents
+TPB Discord | [Server](https://discord.com/invite/leek)| - | **Yes** | ThePillagerBay Discord Server
 RobLauncher|[GitHub](https://github.com/OptiJuegos/RobLauncher/releases)|[GitHub](https://github.com/OptiJuegos/RobLauncher)|**Yes**|Collections of tools
 Mcappx|[Website](https://www.mcappx.com/)|Closed-source|**Yes**|A third-party game resource platform that focuses on providing all versions of Minecraft for Windows
 AutoModificator|[GitHub](https://github.com/Max-RM/AutoModificator)|[GitHub](https://github.com/Max-RM/AutoModificator/releases)|**Yes**| Unlocking height limit and piston push limit
