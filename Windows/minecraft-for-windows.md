@@ -99,4 +99,6 @@ BlueCoin|[Telegram](https://t.me/archivebluecoin)|Closed-source|**Yes**|Decrypti
 Minecraft Bedrock Leaks|[Website](https://shytz.net/Minecraft-Leaks/Windows-Leaks)|\-|**Yes**|Minecraft: Bedrock Edition Development version leaks
 Minecraft DLC Archives|[Discord](https://discord.gg/eDpasTFmRr)|\-|**Yes**|Decrypted Marketplace Contents
 
-<div># Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|Closed-source|**Yes**|Skinpack unlocker</div>
+<div>
+  <!-- Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|Closed-source|**Yes**|Skinpack unlocker -->
+</div>
