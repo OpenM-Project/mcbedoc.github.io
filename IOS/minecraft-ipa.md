@@ -1,5 +1,5 @@
 ---
-title: IOS
+title: Minecraft IPA
 layout: default
 nav_order: 2
 parent: IOS
