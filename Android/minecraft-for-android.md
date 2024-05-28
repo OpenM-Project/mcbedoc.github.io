@@ -5,7 +5,6 @@ parent: Android
 ---
 
 # Minecraft for Android
-{: .no_toc }
 
 ## Modded / Unlocked APKs
 
