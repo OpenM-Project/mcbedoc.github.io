@@ -2,7 +2,7 @@
 title: IOS
 layout: default
 nav_order: 2
-parent: iOS
+parent: IOS
 ---
 
 # Minecraft iOS Edition
