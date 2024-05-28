@@ -10,7 +10,7 @@ parent: Android
 
 | Name | Download | Source code | Is it maintained? | Description
 | ------ | ------ | ------ | ------ | ------
-| ⭐ OpenM MCBE APKs | [Github](https://github.com/OpenMicrosoft-Project/mcbe-apks/releases/) | \- | **Yes** | Unlocked APKs of Minecraft for Android available in x64 and x32, both Preview and Release versions, maintained by the OpenMicrosoft Project.
+| ⭐ OpenM MCBE APKs | [Github](https://github.com/OpenMicrosoft-Project/mcbe/releases) | \- | **Yes** | Unlocked APKs of Minecraft for Android available in x64 and x32, both Preview and Release versions, maintained by the OpenMicrosoft Project.
 | MCPEDL | [Website](https://mcpedl.org/downloading/) | \- | **Yes** | Unlocked APKs of Minecraft for Android
 | Monster MCPE | [Website](https://monster-mcpe.com/download-minecraft-pe/) | \- | **Yes** | Unlocked APKs of Minecraft for Android
 | An1 | [Website](https://an1.com/7190-minecraft-mod.html) | \- | **Yes** | Modded & Unlocked APKs of Minecraft for Android
