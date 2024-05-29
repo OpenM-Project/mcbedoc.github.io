@@ -2,6 +2,7 @@
 layout: default
 title: Minecraft Earth
 parent: Android
+nav_order: 2
 ---
 
 # Minecraft Earth
