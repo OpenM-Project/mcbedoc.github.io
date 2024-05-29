@@ -2,6 +2,7 @@
 layout: default
 title: Minecraft for Android
 parent: Android
+nav_order: 1
 ---
 
 # Minecraft for Android
