@@ -6,14 +6,13 @@ nav_exclude: true
 
 ### To do
 
-- [ ] Make Mobile Phone readability
-- [ ] Make an MCBEDOC icon and add it beside MCBEDOC
+- [ ] Make Mobile experience perfect
+- [ ] Make a new MCBEDOC icon
 - [ ] Add Stars to all Topics 
 - [ ] Recreate openm.tech website  
 
 ### Work In Progress
 
-- [ ] Make light mode compatible logo [icon] of MCBEDOC
 - [ ] Console Edition
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev 
