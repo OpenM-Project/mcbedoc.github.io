@@ -42,7 +42,7 @@ nav_order: 1
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
 🌟 M Centres 4.5|[Discord](https://dsc.gg/mcenters)|Closed-Source|**Yes**|**DLL Replacing**
-⭐ Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main)[Telegram 2](https://t.me/MPC_MCBE_UWP)|Closed-source|**Yes**|**Cracked Appx**
+⭐ Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main) / [2](https://t.me/MPC_MCBE_UWP)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ online-fix\.me's Launcher|[Website](https://online-fix.me/games/sandbox/16708-minecraft-for-windows-10-po-seti.html)|Closed-source|**Yes**|**I-MCM**
 ⭐ OptiCraft|[Website](https://optijuegos.github.io/)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ Zhmurkov Launcher|[Website](https://zhmurkov.ru/)|Closed-source|**Yes**|**Cracked Appx**
