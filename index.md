@@ -35,7 +35,7 @@ This website is built on Jekyll with Just the Docs theme. It's so funny that it 
 ### License
 
 MCBEDOC is &copy; {{ "now" | date: "%Y" }} by [OpenMicrosoft Project](https://openm.tech).
-This website is distributed by an [MIT license](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/tree/main/LICENSE.txt).
+This website is distributed by an [MIT license](https://github.com/mcbedoc/mcbedoc.github.io/tree/main/LICENSE.txt).
 
 ### Contributing
 
@@ -49,7 +49,7 @@ email, or any other method with the owners of this repository before making a ch
 {: .fs-5 }
 
 [MCBEDOC]: https://openm.tech
-[MCBEDOC Repo]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io
-[MCBEDOC README]: https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/blob/main/README.md
+[MCBEDOC Repo]: https://github.com/mcbedoc/mcbedoc.github.io
+[MCBEDOC README]: https://github.com/mcbedoc/mcbedoc.github.io/blob/main/README.md
 [OpenM]: https://openm.tech/
 [Credits]: {% link credits.md %}
