@@ -6,7 +6,7 @@ has_children: false
 permalink: /credits
 ---
 
-# OpenMicrosoft Project's members
+# MCBEDOC's members
 
 [**XtronXI**](https://github.com/XtronXI/) | Founder of **MCBEDOC**, Owner of *r/mcommunity_* and *r/OpenMCommunity*
 [**Cubebanyasz**](https://github.com/misike12/) | Owner of the `openm.tech` domain and `akshnav.cubebanyasz.me`, owner of the YouTube channel (*now, it's dead*) for OpenM 
@@ -23,4 +23,4 @@ permalink: /credits
 **SOMEONE** | Creator of M Community
 **[soyeonswife63/ssy](https://github.com/soyeonswife63)** | Developed BEAMinject, but no longer OpenM
 
-#### *And other contributers/moderators of OpenM / M Community*
+#### *And other contributers/moderators of OpenM / M Community / MCBEDOC*

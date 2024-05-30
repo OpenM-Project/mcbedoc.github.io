@@ -14,7 +14,7 @@ This documentation aims to provide comprehensive information and guides on vario
 ## Getting Started
 
 To get started with MCBEDOC, follow these steps:
-1. Clone the repository: `git clone https://github.com/OpenMicrosoft-Project/mcbedoc.github.io.git`
+1. Clone the repository: `git clone https://github.com/mcbedoc/mcbedoc.github.io.git`
 2. Install Jekyll: `gem install jekyll`
 3. Navigate to the project directory: `cd mcbedoc.github.io`
 4. Start the local development server: `jekyll serve`
@@ -36,6 +36,6 @@ For any questions or inquiries, please contact the project maintainer at [mcbedo
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, comments, or questions about the documentation, please don't hesitate to reach out to us. You can submit an issue on the [GitHub repository](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io/issues) or contact us directly.
+We value your feedback! If you have any suggestions, comments, or questions about the documentation, please don't hesitate to reach out to us. You can submit an issue on the [GitHub repository](https://github.com/mcbedoc/mcbedoc.github.io/issues) or contact us directly.
 
 We appreciate your support and hope you find MCBEDOC helpful for your Minecraft Bedrock Edition projects!

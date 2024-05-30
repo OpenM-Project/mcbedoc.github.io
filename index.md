@@ -34,7 +34,7 @@ This website is built on Jekyll with Just the Docs theme. It's so funny that it 
 
 ### License
 
-MCBEDOC is &copy; {{ "now" | date: "%Y" }} by [OpenMicrosoft Project](https://openm.tech).
+MCBEDOC is &copy; {{ "now" | date: "%Y" }} by [MCBEDOC][MCBEDOC Repo].
 This website is distributed by an [MIT license](https://github.com/mcbedoc/mcbedoc.github.io/tree/main/LICENSE.txt).
 
 ### Contributing
@@ -43,13 +43,11 @@ This website is distributed by an [MIT license](https://github.com/mcbedoc/mcbed
 {: .label .label-purple }
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/OpenMicrosoft-Project/mcbedoc.github.io#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/mcbedoc/mcbedoc.github.io#contributing).
 
-***[Credits to the OpenMicrosoft Team][Credits]***
+***[Credits to the MCBEDOC Team][Credits]***
 {: .fs-5 }
 
-[MCBEDOC]: https://openm.tech
 [MCBEDOC Repo]: https://github.com/mcbedoc/mcbedoc.github.io
 [MCBEDOC README]: https://github.com/mcbedoc/mcbedoc.github.io/blob/main/README.md
-[OpenM]: https://openm.tech/
 [Credits]: {% link credits.md %}
