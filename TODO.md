@@ -6,12 +6,12 @@ nav_exclude: true
 
 ### To do
 
-- [ ] Make Mobile experience perfect  
 - [ ] Add Stars to all Topics  
 - [ ] Recreate openm.tech website  
 
 ### Work In Progress
 
+- [ ] Make Mobile experience perfect  
 - [ ] Console Edition  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
