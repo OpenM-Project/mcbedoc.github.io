@@ -22,8 +22,8 @@
     }
 
     function switchIcons(theme) {
-        var icons = ['RedditIcon', 'WebsiteIcon', 'themeIcon', 'GitHubIcon', 'DiscordIcon'];
-        icons.forEach(function(iconId) {
+    var icons = ['RedditIcon', 'themeIcon', 'GitHubIcon', 'DiscordIcon'];
+    icons.forEach(function(iconId) {
             var icon = document.getElementById(iconId);
             var src = icon.src;
             icon.src = theme === 'dark' ? src.replace('_b.png', '_w.png') : src.replace('_w.png', '_b.png');
