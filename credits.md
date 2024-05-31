@@ -8,7 +8,21 @@ permalink: /credits
 
 # MCBEDOC's members
 
-<table>
+<javascript>
+window.onload = function() {
+  var tbody = document.querySelector('#membersTable tbody');
+  var rows = Array.prototype.slice.call(tbody.rows, 0);
+
+  rows = rows.sort(function(a, b) {
+    return Math.random() > 0.5 ? 1 : -1;
+  });
+
+  rows.forEach(function(row) {
+    tbody.appendChild(row);
+  });
+};
+</javascript>
+<table id="membersTable">
   <tr>
     <td><a href="https://github.com/XtronXI/"><strong>XtronXI</strong></a></td>
     <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/OpenMCommunity</em></td>
