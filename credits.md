@@ -8,25 +8,23 @@ permalink: /credits
 
 # MCBEDOC's members
 
-<table><thead>
+<table>
   <tr>
-    <th>[**XtronXI**](https</th>
-    <th>//github.com/XtronXI/) | Founder of **MCBEDOC**, Owner of *r/mcommunity_* and *r/OpenMCommunity*</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>[**Cubebanyasz**](https</td>
-    <td>//github.com/misike12/) | Owner of the `openm.tech` domain and `akshnav.cubebanyasz.me`, owner of the YouTube channel (*now, it's dead*) for OpenM</td>
+    <td><a href="https://github.com/XtronXI/"><strong>XtronXI</strong></a></td>
+    <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/OpenMCommunity</em></td>
   </tr>
   <tr>
-    <td>[**ars_fr**](https</td>
-    <td>//github.com/arsfr/) | Owner of OpenM Community</td>
+    <td><a href="https://github.com/misike12/"><strong>Cubebanyasz</strong></a></td>
+    <td>Owner of the <code>openm.tech</code> domain and <code>akshnav.cubebanyasz.me</code>, owner of the YouTube channel (<em>now, it's dead</em>) for OpenM</td>
   </tr>
   <tr>
-    <td>**[Soyeonswife63/ssy](https</td>
-    <td>//github.com/soyeonswife63)** | Developer of BEAMinject and WavEye Project &amp; The designer of the website logo</td>
+    <td><a href="https://github.com/arsfr/"><strong>ars_fr</strong></a></td>
+    <td>Owner of OpenM Community</td>
   </tr>
-</tbody>
+  <tr>
+    <td><a href="https://github.com/soyeonswife63"><strong>Soyeonswife63/ssy</strong></a></td>
+    <td>Developer of BEAMinject and WavEye Project & The designer of the website logo</td>
+  </tr>
 </table>
 
 ---
