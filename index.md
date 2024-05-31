@@ -6,7 +6,7 @@ description: "MCBEDOC - An Ultimate Collection of Minecraft: Bedrock Edition Too
 permalink: /
 ---
 
-# MCBEDOC
+# <img src="/assets/images/favicon.png" alt="drawing" width="50" style="transform: translate(7px, 10px);"/> MCBEDOC
 {: .fs-9 }
 
 An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
