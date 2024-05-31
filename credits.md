@@ -8,10 +8,26 @@ permalink: /credits
 
 # MCBEDOC's members
 
-[**XtronXI**](https://github.com/XtronXI/) | Founder of **MCBEDOC**, Owner of *r/mcommunity_* and *r/OpenMCommunity*
-[**Cubebanyasz**](https://github.com/misike12/) | Owner of the `openm.tech` domain and `akshnav.cubebanyasz.me`, owner of the YouTube channel (*now, it's dead*) for OpenM 
-[**ars_fr**](https://github.com/arsfr/) | Owner of OpenM Community
-**[Soyeonswife63/ssy](https://github.com/soyeonswife63)** | Developer of BEAMinject and WavEye Project & The designer of the website logo
+<table><thead>
+  <tr>
+    <th>[**XtronXI**](https</th>
+    <th>//github.com/XtronXI/) | Founder of **MCBEDOC**, Owner of *r/mcommunity_* and *r/OpenMCommunity*</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>[**Cubebanyasz**](https</td>
+    <td>//github.com/misike12/) | Owner of the `openm.tech` domain and `akshnav.cubebanyasz.me`, owner of the YouTube channel (*now, it's dead*) for OpenM</td>
+  </tr>
+  <tr>
+    <td>[**ars_fr**](https</td>
+    <td>//github.com/arsfr/) | Owner of OpenM Community</td>
+  </tr>
+  <tr>
+    <td>**[Soyeonswife63/ssy](https</td>
+    <td>//github.com/soyeonswife63)** | Developer of BEAMinject and WavEye Project &amp; The designer of the website logo</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
