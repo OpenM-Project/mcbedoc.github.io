@@ -32,7 +32,7 @@ window.onload = function() {
     <td>Owner of the <code>openm.tech</code> domain and <code>akshnav.cubebanyasz.me</code>, owner of the YouTube channel (<em>now, it's dead</em>) for OpenM</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/arsfr/"><strong>ars_fr</strong></a></td>
+    <td><a href="https://github.com/arsfr/"><strong>AЯꙄ</strong></a></td>
     <td>Owner of OpenM Community</td>
   </tr>
   <tr>
