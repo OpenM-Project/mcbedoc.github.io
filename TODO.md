@@ -6,20 +6,23 @@ nav_exclude: true
 
 ### To do
 
-- [ ] Make Mobile experience perfect
-- [ ] Make a new MCBEDOC icon
-- [ ] Add Stars to all Topics 
+- [ ] Make Mobile experience perfect  
+- [ ] Add Stars to all Topics  
 - [ ] Recreate openm.tech website  
 
 ### Work In Progress
 
-- [ ] Console Edition
+- [ ] Console Edition  
 - [ ] Android - Normal & Dev  
-- [ ] IOS - Normal & Dev 
+- [ ] IOS - Normal & Dev  
 
 ### Done
 
-- [ ] Minecraft Dungeons 
+- [ ] Change name from OpenMicrosoft to MCBEDOC  
+- [ ] Make randomized credits  
+- [ ] Remove useless files (placeholders)  
+- [ ] Make a new MCBEDOC icon  
+- [ ] Minecraft Dungeons  
 - [ ] Add Minecraft font  
 - [ ] Add Images to every site  
 - [ ] Make Search border  
