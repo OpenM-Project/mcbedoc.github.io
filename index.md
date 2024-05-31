@@ -16,8 +16,6 @@ An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers
 [**Story**](story/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub][MCBEDOC Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<br>
-
 {: .warning }
 > We don't directly advocate for piracy, this is for preservation and educational purposes only!
 
