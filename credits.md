@@ -36,7 +36,7 @@ window.onload = function() {
     <td>Owner of OpenM Community</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/soyeonswife63"><strong>Soyeonswife63/ssy</strong></a></td>
+    <td><a href="https://github.com/soyeonswife63"><strong>Soyeonswife63/Ssy</strong></a></td>
     <td>Developer of BEAMinject and WavEye Project & The designer of the website logo</td>
   </tr>
 </table>
