@@ -8,7 +8,7 @@ permalink: /credits
 
 # MCBEDOC's members
 
-<javascript>
+<script>
 window.onload = function() {
   var tbody = document.querySelector('#membersTable tbody');
   var rows = Array.prototype.slice.call(tbody.rows, 0);
@@ -21,7 +21,7 @@ window.onload = function() {
     tbody.appendChild(row);
   });
 };
-</javascript>
+</script>
 <table id="membersTable">
   <tr>
     <td><a href="https://github.com/XtronXI/"><strong>XtronXI</strong></a></td>
