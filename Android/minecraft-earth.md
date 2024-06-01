@@ -6,14 +6,6 @@ nav_order: 2
 ---
 
 # Minecraft Earth
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 
 Name | Download | Source code | Is it maintained? | Description
 ------ | ------ | ------ | ------| ------
