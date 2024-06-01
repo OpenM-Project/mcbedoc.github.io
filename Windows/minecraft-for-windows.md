@@ -29,7 +29,7 @@ nav_order: 1
 {: .note-title }
 > <b><u>Glossary:</u></b>
 >
-> * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](https://mcbedoc.openm.tech/story/#the-beginning-m-centers--online-fixme)
+> * ClipSVC Method: \[Patched] [Check 1st Paragrapgh](/story/#the-beginning-m-centers--online-fixme)
 > * **I-MCM** - In-Memory Code Manipulation: Edits `minecraft.windows.exe` in RAM
 > * **DMM** - DLL Memory Manipulation: Loads `Windows.ApplicationModel.Store.dll` in a process and edit it's code in RAM
 > 
