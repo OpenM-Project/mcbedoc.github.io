@@ -1,7 +1,15 @@
-<a href="https://github.com/mcbedoc/mcbedoc.github.io" style="margin-right: 16px;"><img id="GitHubIcon" src="/assets/images/icons/github_b.webp" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
-<a href="https://dsc.gg/openms" style="margin-right: 16px;"><img id="DiscordIcon" src="/assets/images/icons/discord_b.webp" alt="MCBEDOC Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
-<a href="https://MCBEDOC.reddit.com" style="margin-right: 16px;"><img id="RedditIcon" src="/assets/images/icons/reddit_b.webp" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
-<a href="#"><img id="themeIcon" src="/assets/images/icons/theme_switch_b.webp" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
+<style>
+    @media (max-width: 800px) {
+        .responsive-icon {
+            display: none;
+        }
+    }
+    </style>
+    
+    <a href="https://github.com/mcbedoc/mcbedoc.github.io" style="margin-right: 16px;" class="responsive-icon"><img id="GitHubIcon" src="/assets/images/icons/github_b.webp" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
+    <a href="https://dsc.gg/openms" style="margin-right: 16px;" class="responsive-icon"><img id="DiscordIcon" src="/assets/images/icons/discord_b.webp" alt="MCBEDOC Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
+    <a href="https://MCBEDOC.reddit.com" style="margin-right: 16px;" class="responsive-icon"><img id="RedditIcon" src="/assets/images/icons/reddit_b.webp" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
+    <a href="#" class="responsive-icon"><img id="themeIcon" src="/assets/images/icons/theme_switch_b.webp" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
 
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';

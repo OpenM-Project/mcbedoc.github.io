@@ -36,20 +36,22 @@
     border-radius: 0;
     box-shadow: none;
     transition: width ease $transition-duration;
+    margin-left: 10px; // Add this line
   }
 }
 
 .search-input {
   position: absolute;
-  width: 45%; // Adjust this to make the search box smaller
+  width: 90%; // Adjust this to make the search box smaller
   height: 98%; // Adjust this to make the search box smaller
   padding: $sp-2 $gutter-spacing-sm $sp-2 #{$gutter-spacing-sm + $sp-5};
   font-size: 1rem;
   color: $body-text-color;
   background-color: $search-background-color;
-  border: 1px solid rgb(65, 65, 65); // Add this line
+  border: 1px solid rgb(107, 107, 107); // Add this line
   border-radius: 10px; // Add this line
-  border-color: rgb(46, 46, 46); // Add this line
+  border-color: rgb(112, 112, 112); // Add this line
+  margin-left: 10px; // Add this line
 //  border-top: 0;
 //  border-right: 0;
 //  border-bottom: 0;
