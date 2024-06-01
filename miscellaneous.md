@@ -31,6 +31,7 @@ nav_order: 5
 * [MDLC Video Archive](https://rutube.ru/channel/26457757/)
 * [TNT Entertainment on RuTube](https://rutube.ru/channel/29904568/)
 * [Tnt Entertainment on YouTube](https://www.youtube.com/@TNT_ENTERTAINMENT)
+* [Tinedpakgamer](https://youtube.com/@tinedpakgamer)
 
 ## Audio/Songs
 * [(Score) Minecraft Soundtrack Collection (Various Artists) (by C418 / Gareth Coker / Lena Raine) (56 релизов)](https://rutracker.org/forum/viewtopic.php?t=6484277)
