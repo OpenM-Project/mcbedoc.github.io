@@ -1,12 +1,12 @@
 <script></script>
-<img src="/assets/images/icons/gap.png" style="height:22px">
-<a href="https://github.com/mcbedoc/mcbedoc.github.io"><img id="GitHubIcon" src="/assets/images/icons/github_b.png" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
-<img src="/assets/images/icons/gap.png" style="height:22px">
-<a href="https://dsc.gg/openms"><img id="DiscordIcon" src="/assets/images/icons/discord_b.png" alt="MCBEDOC Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
-<img src="/assets/images/icons/gap.png" style="height:22px">
-<a href="https://MCBEDOC.reddit.com"><img id="RedditIcon" src="/assets/images/icons/reddit_b.png" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
-<img src="/assets/images/icons/gap.png" style="height:22px">
-<a href="#"><img id="themeIcon" src="/assets/images/icons/theme_switch_b.png" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
+<img src="/assets/images/icons/gap.webp" style="height:22px">
+<a href="https://github.com/mcbedoc/mcbedoc.github.io"><img id="GitHubIcon" src="/assets/images/icons/github_b.webp" alt="MCBEDOC on GitHub" style="width:20px;height:20px;transform: translate(0px, 10px);"></a>
+<img src="/assets/images/icons/gap.webp" style="height:22px">
+<a href="https://dsc.gg/openms"><img id="DiscordIcon" src="/assets/images/icons/discord_b.webp" alt="MCBEDOC Discord" style="width:20px;height:23px;transform: translate(0px, 10px);"></a>
+<img src="/assets/images/icons/gap.webp" style="height:22px">
+<a href="https://MCBEDOC.reddit.com"><img id="RedditIcon" src="/assets/images/icons/reddit_b.webp" alt="OpenM Reddit" style="width:22px;height:20px;transform: translate(0px, 10px);"></a>
+<img src="/assets/images/icons/gap.webp" style="height:22px">
+<a href="#"><img id="themeIcon" src="/assets/images/icons/theme_switch_b.webp" alt="Theme Switch" style="width:20px;height:20px;transform: translate(0px, 10px);" onclick="switchTheme(event)"></a>
 
 <script>
     var currentTheme = localStorage.getItem('theme') || jtd.getTheme() || 'dark';
@@ -26,7 +26,7 @@
     icons.forEach(function(iconId) {
             var icon = document.getElementById(iconId);
             var src = icon.src;
-            icon.src = theme === 'dark' ? src.replace('_b.png', '_w.png') : src.replace('_w.png', '_b.png');
+            icon.src = theme === 'dark' ? src.replace('_b.webp', '_w.webp') : src.replace('_w.webp', '_b.webp');
         });
     }
 </script>
