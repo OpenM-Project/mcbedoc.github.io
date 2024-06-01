@@ -7,7 +7,6 @@ parent: IOS
 
 # Minecraft: Earth
 
-
 Name | Download | Source code | Is it maintained? | Description
 ------ | ------ | ------ | ------| ------
 Minecraft: Earth on Starfiles|[Website](https://starfiles.co/file/Ef8oPs2aTPJF/MinecraftEarthv-0-33)|\-|No|Original Minecraft Earth IPA
