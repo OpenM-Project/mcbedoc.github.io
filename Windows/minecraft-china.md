@@ -61,7 +61,7 @@ MCDEV China 2.8 Archive|[Telegram](https://t.me/+6TGqUHdby4xiZGI5)|\-|**Yes**|Mi
 MCDEV China 2.9 Archive|[Telegram](https://t.me/+zROm1cZ2uDEwMDJh)|\-|**Yes**|Minecraft China Developer 2.9 Archive
 MCDEV China 2.10 Archive|[Telegram](https://t.me/+YTwiYOzy_IswNTVh)|\-|**Yes**|Minecraft China Developer 2.10 Archive
 MCDEV China 2.11 Archive|[Telegram](https://t.me/+b1BbzYbyzmk5YWZh)|\-|**Yes**|Minecraft China Developer 2.11 Archive
-Minecraft: China Edition [P] [RUS + ENG + 22] (2017, Simulation) (1.18.36 / 1.17.3 / 1.16.12) [Portable]|[Rutracker](https://rutracker.org/forum/viewtopic.php?t=6443700)| - |Pre-cracked appx
+Minecraft: China Edition [P] [RUS + ENG + 22] (2017, Simulation) (1.18.36 / 1.17.3 / 1.16.12) [Portable]|[Rutracker](https://rutracker.org/forum/viewtopic.php?t=6443700)| - | No | Pre-cracked appx
 Minecraft Education Edition \| China Modded Collection|[Link](https://t.me/minecraft_modded_collection)|\-|**Yes**|Builds of modded minecraft versions (OptiCraft, China Dev Mods, etc)
 Minecraft Bedrock Developer Edition Discussion Community on Matrix|[Matrix](https://matrix.to/#/%23boycottmojang:matrix.org)|\-|**Yes**|MCDEV Matrix
 Minecraft Bedrock Developer Edition Discussion Community Announcements|[Telegram](https://t.me/antimojang)|\-|**Yes**|MCDEV Announcements
