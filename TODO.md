@@ -7,7 +7,6 @@ nav_exclude: true
 ### To do
 
 - [ ] Add Stars to all Topics  
-- [ ] Recreate openm.tech website  
 
 ### Work In Progress
 
