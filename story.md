@@ -190,3 +190,19 @@ First, tinedpakgamer revived the <a href="https://www.youtube.com/channel/UCM1jM
 </blockquote>
 
 </details>
+
+
+
+<details>
+
+<summary>wavEye hits the scene & Continuation of OpenM</summary>
+
+<blockquote>
+After OpenM was deleted, soyeonswife63 created the wavEye Project. `libstarlight` was the first project to be released, and it was the Rust equivalent of `librosewater` from OpenM. There was supposed to be a successor to `BEAMinject` called Starlight, but it never saw the light of day due to technical limitations. 
+
+Then, `BEAMinject` and `librosewater` got forked. Several new features were added, performance was optimized and bugs were fixed. Currently, the project is at a very early state.
+
+The project is at a very active state, with frequent updates being pushed.
+</blockquote>
+
+</details>
