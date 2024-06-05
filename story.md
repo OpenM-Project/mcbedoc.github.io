@@ -140,7 +140,7 @@ And then some staff members and developers created a new server named "OpenM Com
 
 <details>
 
-<summary>BEAMInject</summary>
+<summary>BEAMinject</summary>
 
 <blockquote>
 This hinted at their next release, <code>BEAMinject</code> which was a fast and secure unlocker using <b>DLL Memory Manipulatoion</b> for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
