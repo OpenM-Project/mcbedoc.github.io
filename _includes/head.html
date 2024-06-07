@@ -14,8 +14,13 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <!-- Preload CSS files -->
-  <link rel="preload" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}" as="style">
-  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}">
+  {% if localStorage.getItem('theme') == 'light' %}
+    <link rel="preload" href="{{ '/assets/css/just-the-docs-light.css' | relative_url }}" as="style">
+    <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-light.css' | relative_url }}">
+  {% else %}
+    <link rel="preload" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}" as="style">
+    <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}">
+  {% endif %}
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
   <link rel="preload" href="{{ '/assets/css/webui/resources/resources/fonts/Minecraft-Seven_v2.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ '/assets/css/clientlib-site/resources/resources/fonts/Minecraft-Seven_v2.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
