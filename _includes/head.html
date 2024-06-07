@@ -14,13 +14,31 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <!-- Preload CSS files -->
-  {% if localStorage.getItem('theme') == 'light' %}
-    <link rel="preload" href="{{ '/assets/css/just-the-docs-light.css' | relative_url }}" as="style">
-    <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-light.css' | relative_url }}">
-  {% else %}
-    <link rel="preload" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}" as="style">
-    <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}">
-  {% endif %}
+  <script>
+    if (localStorage.getItem('theme') == 'light') {
+      var lightCSS = document.createElement('link');
+      lightCSS.rel = 'preload';
+      lightCSS.href = '{{ '/assets/css/just-the-docs-light.css' | relative_url }}';
+      lightCSS.as = 'style';
+      document.head.appendChild(lightCSS);
+
+      var lightStyle = document.createElement('link');
+      lightStyle.rel = 'stylesheet';
+      lightStyle.href = '{{ '/assets/css/just-the-docs-light.css' | relative_url }}';
+      document.head.appendChild(lightStyle);
+    } else {
+      var darkCSS = document.createElement('link');
+      darkCSS.rel = 'preload';
+      darkCSS.href = '{{ '/assets/css/just-the-docs-dark.css' | relative_url }}';
+      darkCSS.as = 'style';
+      document.head.appendChild(darkCSS);
+
+      var darkStyle = document.createElement('link');
+      darkStyle.rel = 'stylesheet';
+      darkStyle.href = '{{ '/assets/css/just-the-docs-dark.css' | relative_url }}';
+      document.head.appendChild(darkStyle);
+    }
+  </script>
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
   <link rel="preload" href="{{ '/assets/css/webui/resources/resources/fonts/Minecraft-Seven_v2.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ '/assets/css/clientlib-site/resources/resources/fonts/Minecraft-Seven_v2.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
