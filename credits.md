@@ -26,7 +26,7 @@ window.onload = function() {
 <table id="membersTable">
   <tr>
     <td><a href="https://github.com/XtronXI/"><strong>XtronXI</strong></a></td>
-    <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/OpenMCommunity</em></td>
+    <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/MCBEDOC</em></td>
   </tr>
   <tr>
     <td><a href="https://github.com/misike12/"><strong>Cubebanyasz</strong></a></td>
