@@ -26,19 +26,19 @@ window.onload = function() {
 <table id="membersTable">
   <tr>
     <td><a href="https://github.com/XtronXI/"><strong>XtronXI</strong></a></td>
-    <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/MCBEDOC</em></td>
+    <td>Founder of <strong>MCBEDOC</strong>, Owner of <em>r/mcommunity_</em> and <em>r/MCBEDOC</em>.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/misike12/"><strong>Cubebanyasz</strong></a></td>
-    <td>Owner of the <code>openm.tech</code> and <code>akshnav.cubebanyasz.me</code>, the Discord server</td>
+    <td>Co-founder of MCBEDOC, owner of the <code>openm.tech</code>website, the <code>akshnav.cubebanyasz.me</code> website, and the Discord server.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/arsfr/"><strong>AЯꙄ</strong></a></td>
-    <td>Owner of OpenM Community</td>
+    <td><a href="https://github.com/arsfr/"><strong>ΛЯSᶠʳ</strong></a></td>
+    <td>Former owner of OpenM Community, developer at MCBEDOC.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/soyeonswife63"><strong>Soyeonswife63/Ssy</strong></a></td>
-    <td>Developer of BEAMinject and WavEye Project & The designer of the website logo</td>
+    <td><a href="https://github.com/soyeonswife63"><strong>soyeonswife63/ssy</strong></a></td>
+    <td>Developer of WavEye's BEAMinject (previously developer of OpenM's BEAMinject) and WavEye project.</td>
   </tr>
 </table>
 
