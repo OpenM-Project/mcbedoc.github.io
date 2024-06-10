@@ -2,6 +2,9 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open('your-cache-name').then(function(cache) {
         return cache.addAll([
+          '/assets/css/just-the-docs-light.css',
+          '/assets/css/just-the-docs-dark.css',
+          '/assets/css/just-the-docs-head-nav.css',
           '/',
           '/assets/css/just-the-docs-head-nav.css',
           '/assets/css/webui/resources/resources/fonts/Minecraft-Seven_v2.woff2',
