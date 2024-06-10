@@ -6,7 +6,6 @@ self.addEventListener('install', function(event) {
           '/assets/css/just-the-docs-dark.css',
           '/assets/css/just-the-docs-head-nav.css',
           '/',
-          '/assets/css/just-the-docs-head-nav.css',
           '/assets/css/webui/resources/resources/fonts/Minecraft-Seven_v2.woff2',
           '/assets/css/clientlib-site/resources/resources/fonts/Minecraft-Seven_v2.woff2',
           '/assets/js/vendor/lunr.min.js',
@@ -16,7 +15,6 @@ self.addEventListener('install', function(event) {
           '/assets/images/icons/reddit_b.webp',
           '/assets/images/icons/theme_switch_b.webp',
           '/assets/images/favicon.webp',
-          '/assets/css/just-the-docs-dark.css',
           '/assets/images/icons/reddit_w.webp',
           '/assets/images/icons/theme_switch_w.webp',
           '/assets/images/icons/github_w.webp',
@@ -26,7 +24,6 @@ self.addEventListener('install', function(event) {
           '/story/',
           '/windows',
           '/credits',
-          '/Windows/minecraft-for-windows/',
           '/Windows/minecraft-for-windows/',
           '/Windows/minecraft-earth/',
           '/Windows/minecraft-education/',
@@ -42,7 +39,6 @@ self.addEventListener('install', function(event) {
           '/IOS/minecraft-earth/',
           '/console/',
           '/miscellaneous/',
-          '/credits',
           '/dmca'
         ]);
       })
