@@ -48,6 +48,6 @@ window.onload = function() {
 [**CyberAWM**](https://github.com/QwertyTheCoder) | Partner of M Centers.
 **[ClickNinYT](https://github.com/ClickNin/)/[FishiaT](https://github.com/FishiaT)** | Developer of ClickGo, ClickGoLTS, DynoLTS and BlueSky Launcher. He is also partnered with M Centers.
 **SOMEONE** | Founder of M Community, the community that was aiming to revive M Centers after M Centers left (02/13/2024 [MM/DD/YYYY]), and before M Centers came back (05/01/2024 [MM/DD/YYYY]). **SOMEONE** is also support at M Centers.
-Soyeon's wife 63 | I forgor 💀
+Soyeon's wife 63 | Developer of the WavEye project, aimed to create a python alternative to M Centers, which unlocks Minecraft: Bedrock Edition's trial on Windows Systems.
 
 #### *And other contributers/moderators of M Centers / M Community / M Community Development / OpenM Project / OpenMicrosoft Project / MCBEDOC*
