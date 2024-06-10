@@ -46,11 +46,11 @@ window.onload = function() {
 
 # Worth mentioning
 
-[Mojang **S**t**u**dio**s** AB](https://mojang.com) | They designed the book icon of the MCBEDOC (In Minecraft: Dungeons)
-[**Tinedpakgamer**](https://github.com/tinedpakgamer/) | Developer of M Centres, aka M Centres
+[Mojang **S**t**u**dio**s** AB](https://mojang.com) | They designed the book icon of the MCBEDOC (In Minecraft: Dungeons, Enchanter's Tome)
+[**Tinedpakgamer**](https://github.com/tinedpakgamer/) | Developer of M Centres, aka M Centres.
 [**Max RM**](https://github.com/Max-RM) | **a *major* partner of M Centers**, the owner of MDLC *(working on cracked appx for Minecraft)*, helped in giving Hex codes for BEAMinject.
-[**CyberAWM**](https://github.com/QwertyTheCoder) | Partner of M Centers
-**[ClickNinYT](https://github.com/ClickNin/)/[FishiaT](https://github.com/FishiaT)** | Developer of ClickGo, ClickGoLTS, DynoLTS and BlueSky Launcher. He is also partnered with M Centrers
-**SOMEONE** | Creator of M Community
+[**CyberAWM**](https://github.com/QwertyTheCoder) | Partner of M Centers.
+**[ClickNinYT](https://github.com/ClickNin/)/[FishiaT](https://github.com/FishiaT)** | Developer of ClickGo, ClickGoLTS, DynoLTS and BlueSky Launcher. He is also partnered with M Centers.
+**SOMEONE** | Creator of M Community, the community that was aiming to revive M Centers after he left, and before he came back.
 
-#### *And other contributers/moderators of OpenM / M Community / MCBEDOC / OpenMicrosoft Community*
+#### *And other contributers/moderators of M Centers / M Community / M Community Development / OpenM Project / MCBEDOC*
