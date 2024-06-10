@@ -1,0 +1,27 @@
+{
+    "name":"MCBEDOC",
+    "short_name":"MCBEDOC",
+    "description":"An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers",
+    "start_url":"https://mcbedoc.openm.tech",
+    "display": "standalone",
+    "orientation":"any",
+    "theme_color":"#8936FF",
+    "background_color":"#2EC6FE",
+    "dir":"left",
+    "lang":"en-US",
+    "scope":"https://mcbedoc.openm.tech/",
+    "icons":[
+       {
+          "purpose":"maskable",
+          "sizes":"512x512",
+          "src":"/assets/images/icon512_maskable.png",
+          "type":"image/png"
+       },
+       {
+          "purpose":"any",
+          "sizes":"512x512",
+          "src":"/assets/images/icon512_rounded.png",
+          "type":"image/png"
+       }
+    ]
+  }
