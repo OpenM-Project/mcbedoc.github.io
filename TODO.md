@@ -10,13 +10,14 @@ nav_exclude: true
 
 ### WIP (Work In Progress):
 
-- [ ] Console Edition  
-- [ ] Android - Normal & Dev  
-- [ ] IOS - Normal & Dev  
+- [ ] Toggle starred things  
 
 ### Finished:
 
-- [ ] Made Mobile Experience Perfected
+- [ ] IOS - Normal & Dev  
+- [ ] Console Edition  
+- [ ] Android - Normal & Dev  
+- [ ] Made Mobile Experience Perfected  
 - [ ] Change name from OpenMicrosoft to MCBEDOC  
 - [ ] Make randomized credits  
 - [ ] Remove useless files (placeholders)  
@@ -50,3 +51,4 @@ nav_exclude: true
 - [ ] Add content to MCfW10, MCE, MCEE, MCC & The Story  
 - [ ] Migrate MCBEDOC content  
 - [ ] Mod the header, so we can add icons  
+
