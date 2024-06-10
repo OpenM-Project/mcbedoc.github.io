@@ -1,4 +1,4 @@
-# MCBEDOC
+# <img src="https://raw.githubusercontent.com/MCBEDOC/mcbedoc.github.io/main/assets/images/MCBEDOC.png"></img>
 
 MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
 
