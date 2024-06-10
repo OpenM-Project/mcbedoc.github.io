@@ -51,6 +51,6 @@ window.onload = function() {
 [**Max RM**](https://github.com/Max-RM) | **a *major* partner of M Centers**, the owner of MDLC *(working on cracked appx for Minecraft)*, helped in giving Hex codes for BEAMinject.
 [**CyberAWM**](https://github.com/QwertyTheCoder) | Partner of M Centers.
 **[ClickNinYT](https://github.com/ClickNin/)/[FishiaT](https://github.com/FishiaT)** | Developer of ClickGo, ClickGoLTS, DynoLTS and BlueSky Launcher. He is also partnered with M Centers.
-**SOMEONE** | Founder of M Community, the community that was aiming to revive M Centers after M Centers left (2/13/2024 [M/DD/YYYY]), and before M Centers came back (4/30/2024 [M/DD/YYYY]). **SOMEONE** is also support at M Centers.
+**SOMEONE** | Founder of M Community, the community that was aiming to revive M Centers after M Centers left (02/13/2024 [MM/DD/YYYY]), and before M Centers came back (05/01/2024 [MM/DD/YYYY]). **SOMEONE** is also support at M Centers.
 
 #### *And other contributers/moderators of M Centers / M Community / M Community Development / OpenM Project / MCBEDOC*
