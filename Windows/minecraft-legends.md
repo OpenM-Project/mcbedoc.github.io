@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft-legends.png" alt="Minecraft Legends" class="center-image">
+  <img src="/assets/images/docs/minecraft-legends.webp" alt="Minecraft Legends" class="center-image">
 </div>
 
 <style>

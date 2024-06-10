@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft-dungeons.png" alt="Minecraft Dungeons" class="center-image">
+  <img src="/assets/images/docs/minecraft-dungeons.webp" alt="Minecraft Dungeons" class="center-image">
 </div>
 
 <style>

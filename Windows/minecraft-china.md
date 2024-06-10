@@ -7,7 +7,7 @@ nav_order: 5
 
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft-china.png" alt="Minecraft China" class="center-image">
+  <img src="/assets/images/docs/minecraft-china.webp" alt="Minecraft China" class="center-image">
 </div>
 
 <style>

@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft.png" alt="Minecraft for Windows" class="center-image">
+  <img src="/assets/images/docs/minecraft.webp" alt="Minecraft for Windows" class="center-image">
 </div>
 
 <style>

@@ -7,7 +7,7 @@ nav_order: 2
 
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft-earth.png" alt="Minecraft Earth" class="center-image">
+  <img src="/assets/images/docs/minecraft-earth.webp" alt="Minecraft Earth" class="center-image">
 </div>
 
 <style>

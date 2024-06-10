@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 <div class="center">
-  <img src="/assets/images/docs/minecraft-education.png" alt="Minecraft Education" class="center-image">
+  <img src="/assets/images/docs/minecraft-education.webp" alt="Minecraft Education" class="center-image">
 </div>
 
 <style>
