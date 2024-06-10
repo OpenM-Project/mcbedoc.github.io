@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Todo
+title: To-do
 nav_exclude: true
 ---
 
-### To do
+### To-do:
 
 - [ ] Add Stars to all Topics  
 
-### Work In Progress
+### WIP (Work In Progress):
 
-- [ ] Make Mobile experience perfect  
 - [ ] Console Edition  
 - [ ] Android - Normal & Dev  
 - [ ] IOS - Normal & Dev  
 
-### Done
+### Finished:
 
+- [ ] Made Mobile Experience Perfected
 - [ ] Change name from OpenMicrosoft to MCBEDOC  
 - [ ] Make randomized credits  
 - [ ] Remove useless files (placeholders)  
@@ -50,4 +50,3 @@ nav_exclude: true
 - [ ] Add content to MCfW10, MCE, MCEE, MCC & The Story  
 - [ ] Migrate MCBEDOC content  
 - [ ] Mod the header, so we can add icons  
-
