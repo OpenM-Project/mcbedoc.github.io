@@ -20,10 +20,6 @@ vendor/
 # We use Node.js as our runtime, so we ignore node_modules
 node_modules
 
-# .DS_Store is a macOS-only metadata file about directories. Convention is to not commit them.
-# See: https://en.wikipedia.org/wiki/.DS_Store
-.DS_Store
-
 # These are legacy globs that typically target Ruby theme developers. We may change these at a later date.
 *.gem
 .bundle
