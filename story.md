@@ -143,11 +143,11 @@ And then some staff members and developers created a new server named "OpenM Com
 <summary>BEAMinject</summary>
 
 <blockquote>
-This hinted at their next release, <code>BEAMinject</code> which was a fast and secure unlocker using <b>DLL Memory Manipulatoion</b> for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
+This hinted at their next release, <code>BEAMinject</code> which was a fast and secure unlocker using <b>DLL Memory Manipulation</b> for Minecraft. Development was slow and steady, but it was a breath of fresh air in the Minecraft cracking scene because of its features:
 <ul>
   <li>It <i>was</i> the only maintained and currently working tool that was open-source</li>
   <li>It worked with all kinds of Minecraft and Windows versions</li>
-  <li>It natively supported ARM devices</li>
+  <li>It natively supported ARMv7 and ARM64 devices</li>
   <li>It had a silent executable which allowed users to just create a nice-looking shortcut</li>
   <li>It didn't permanently modify system files and didn't have any prebuilt DLLs</li>
 </ul>
@@ -195,12 +195,21 @@ First, tinedpakgamer revived the <a href="https://www.youtube.com/channel/UCM1jM
 
 <details>
 
-<summary>wavEye hits the scene & Continuation of OpenM</summary>
+<summary>Continuation of OpenM with wavEye</summary>
 
 <blockquote>
-After OpenM was deleted, soyeonswife63 created the wavEye Project. `libstarlight` was the first project to be released, and it was the Rust equivalent of `librosewater` from OpenM. There was supposed to be a successor to `BEAMinject` called Starlight, but it never saw the light of day due to technical limitations. 
+After OpenM was deleted, soyeonswife63 created the wavEye Project as an extension of the OpenM project.
 
-Then, `BEAMinject` and `librosewater` got forked. Several new features were added, performance was optimized and bugs were fixed. The forks are being actively updated.
+<code>libstarlight</code> was the first release, which was basically a Rust rewrite of <code>librosewater</code> from OpenM. There was supposed to be a successor to BEAMinject called Starlight, but it never saw the light of day due to issues during development.
+
+After Starlight was ditched, <code>BEAMinject</code> and <code>librosewater</code> was forked. These forks provided the following feature updates:
+<ul>
+  <li>Improved performance <i>(with code improvements & switching to Nuitka + UPX from pyinstaller)</i></li>
+  <li>Fixed major issues with OpenM releases <i>(namely UTF decoding issues)</i></li>
+  <li>Cleaned up code with proper Python practices</li>
+  <li>Added support for patching Minecraft Preview versions</li>
+</ul>
+The project is still developing, and there may be more to come.
 </blockquote>
 
 </details>

@@ -41,12 +41,12 @@ nav_order: 1
 
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
-🌟 M Centres 4.5|[Discord](https://dsc.gg/mcenters)|Closed-Source|**Yes**|**DLL Replacing**
-🌟BEAMinject |[Website](https://wavEye-project.github.io/BEAMinject/)|[GitHub](https://github.com/wavEye-Project/BEAMinject)|**Yes**|**DMM**
-🌟 Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main) / [2](https://t.me/MPC_MCBE_UWP)|Closed-source|**Yes**|**Cracked Appx**
-⭐ Online-fix\.me's Launcher|[Website](https://online-fix.me/games/sandbox/16708-minecraft-for-windows-10-po-seti.html)|Closed-source|**Yes**|**I-MCM**
+🌟 M Centres 8.0|[Website](https://mcenters.net/) / [Discord](https://dsc.gg/mcenters)|[Open-Source](https://github.com/tinedpakgamer/M-Centers-8.0/)|**Yes**|**Multiple Methods**
+⭐ Max_RM's pre-cracked appx|[Telegram](https://t.me/MDLC_main) / [2](https://t.me/MPC_MCBE_UWP)|Closed-source|**Yes**|**Cracked Appx**
+⭐ online-fix\.me's Launcher|[Website](https://online-fix.me/games/sandbox/16708-minecraft-for-windows-10-po-seti.html)|Closed-source|**Yes**|**I-MCM**
 ⭐ OptiCraft|[Website](https://optijuegos.github.io/)|Closed-source|**Yes**|**Cracked Appx**
 ⭐ Zhmurkov Launcher|[Website](https://zhmurkov.ru/)|Closed-source|**Yes**|**Cracked Appx**
+⭐BEAMinject |[Website](https://wavEye-project.github.io/BEAMinject/)|[GitHub](https://github.com/wavEye-Project/BEAMinject)|**Yes**|**DMM**
 🌐 Minecraft for Windows 10 Topic|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|\-|**Yes**|Multiple Methods
 MCentresDLLs|[GitHub](https://github.com/Max-RM/mcenterdlls/archive/refs/heads/main.zip)|[GitHub](https://github.com/Max-RM/mcenterdlls)|**Yes**|Cracked DLLs for Minecraft BE
 Minecraft: Bedrock Edition [P] [RUS + ENG + 22] (2015, Simulation, UWP) (1.20.80) [P2P]|[RuTracker](https://rutracker.org/forum/viewtopic.php?t=6444229)|\-|**Yes**|**Cracked Appx**
@@ -63,7 +63,7 @@ MCPatcher|[GitHub](https://github.com/bricktea/MCPatcher/releases/download/v1.2.
 MCrev|[GitHub](https://github.com/mcrax/mcrev/releases/download/1.14/Revision.1.14.exe)|[GitHub](https://github.com/mcrax/mcrev)|No|Patching MC’s files
 MCWIN10-PATCHER|[GitHub](https://github.com/raonygamer13/MCWIN10-PATCHER/releases/download/v1.0.0/McpePatcher.exe)|[GitHub](https://github.com/raonygamer13/MCWIN10-PATCHER)|No|DLL Replacing
 MCWindows10UnlockHack|[PixelDrain](https://pixeldrain.com/u/C5f199xN)|[PixelDrain](https://pixeldrain.com/u/C5f199xN)|No|DLL Replacing
-MINECRAFT Win10 PC FRACO|[GitHub](https://github.com/raonygamer/Minecraft-Win10/raw/main/MINECRAFT%20Win10%20PC%20FRACO%20BY%20raonyreis13.zip)|[Github](https://github.com/raonygamer/Minecraft-Win10)|No|DLL Replacing
+MINECRAFT Win10 PC FRACO|[GitHub](https://github.com/raonygamer/Minecraft-Win10/raw/main/MINECRAFT%20Win10%20PC%20FRACO%20BY%20raonyreis13.zip)|[GitHub](https://github.com/raonygamer/Minecraft-Win10)|No|DLL Replacing
 Minecraft Launch Script|[GitHub](https://github.com/Sahil12524/Minecraft-Launch-Script-VB-WinForms/releases/download/v1.10/Minecraft.Launch.Script.1.10.7z)|[GitHub](https://github.com/Sahil12524/Minecraft-Launch-Script-VB-WinForms)|No|DLL Replacing
 Minecraft_For_Win10_Crack|[GitHub](https://github.com/zhicheng233/Minecraft_For_Win10_Crack/releases/download/MCBECrack2.41/Minecraft_For_Win10_Crack.exe)|[GitHub](https://github.com/zhicheng233/Minecraft_For_Win10_Crack)|No|DLL Replacing
 Minecraft_Memory_Bypass_GUI|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI/releases/download/V1.4.0.0/Minecraft.Memory.Bypass.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI)|No|**DMM**
