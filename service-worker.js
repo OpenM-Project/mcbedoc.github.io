@@ -2,6 +2,11 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open('your-cache-name').then(function(cache) {
         return cache.addAll([
+          '/assets/images/docs/minecraft-dungeons.webp',
+          '/assets/images/docs/minecraft-legends.webp',
+          '/assets/images/docs/minecraft-china.webp',
+          '/assets/images/docs/minecraft-education.webp',
+          '/assets/images/docs/minecraft-earth.webp',
           '/assets/images/MCBEDOC.webp',
           '/assets/css/just-the-docs-light.css',
           '/assets/css/just-the-docs-dark.css',
