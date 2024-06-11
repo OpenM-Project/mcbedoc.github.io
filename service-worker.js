@@ -2,6 +2,7 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open('your-cache-name').then(function(cache) {
         return cache.addAll([
+          '/assets/images/MCBEDOC.webp',
           '/assets/css/just-the-docs-light.css',
           '/assets/css/just-the-docs-dark.css',
           '/assets/css/just-the-docs-head-nav.css',
