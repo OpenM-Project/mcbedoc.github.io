@@ -69,7 +69,7 @@ Minecraft_For_Win10_Crack|[GitHub](https://github.com/zhicheng233/Minecraft_For_
 Minecraft_Memory_Bypass_GUI|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI/releases/download/V1.4.0.0/Minecraft.Memory.Bypass.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft_Memory_Bypass_GUI)|No|**DMM**
 Minecraft-Activator|[GitHub](https://github.com/Ambassador4ik/Minecraft-Activator/archive/refs/heads/main.zip)|[GitHub](https://github.com/Ambassador4ik/Minecraft-Activator)|No|DLL Replacing
 Minecraft-Unlock|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock/releases/download/V2.3.0.0/Minecraft.Unlock.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft-Unlock)|No|DLL Replacing
-PATCHER - CODEX|[PixelDrain](https://pixeldrain.com/u/DzjhErdB)|Closed-source|No|Patching MC’s files
+PATCHER - CODEX|[PixelDrain](https://pixeldrain.com/u/DzjhErdB)|\-|No|Patching MC’s files
 BLauncher|[GitHub](https://github.com/imsaku/blauncher/archive/refs/heads/main.zip)|[GitHub](https://github.com/imsaku/blauncher)|No|ClipSVC
 ClickGoLTS|[GitHub](https://github.com/FishiaT/ClickGoLTS/archive/refs/heads/main.zip)|[GitHub](https://github.com/FishiaT/ClickGoLTS)|No|ClipSVC
 Minecraft_Bypass_the_program|[GitHub](https://github.com/Xing-Fax/Minecraft_Bypass_the_program/releases/download/V1.2.0.0/Minecraft.Start.Up.exe)|[GitHub](https://github.com/Xing-Fax/Minecraft_Bypass_the_program)|No|ClipSVC
@@ -86,20 +86,20 @@ Name | Download | Source code | Is it maintained?| Description
 MCLauncher|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher/releases)|[GitHub](https://github.com/MCMrARM/mc-w10-version-launcher)|**Yes**|Multi-version launcher for Minecraft
 Betacraft|[Website](https://betacraft.uk/)|[Github](https://github.com/betacraftuk/betacraft-launcher/)|*Maybe*|Multi-version launcher for Minecraft Beta Versions
 MCli|[GitHub](https://raw.githubusercontent.com/mcrax/mcli/main/MCli.py)|[GitHub](https://github.com/mcrax/mcli)|No|UUID downloading
-McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|Closed-source|*Maybe*|Decrypting Marketplace Content
+McUtils|[PixelDrain](https://pixeldrain.com/u/Rpw33LwR)|\-|*Maybe*|Decrypting Marketplace Content
 Secret-Minecraft-marketplace-products|[PixelDrain](https://pixeldrain.com/u/TeFv567Z)|~~PixelDrain~~|No|List of unavalible marketplace items
 Testcoin|[Telegram](https://t.me/archivebluecoin)|[Telegram](https://t.me/archivebluecoin)|**Yes**|Decrypting Marketplace Content
 ThePillagerBay|[Telegram](https://t.me/ThePillagerBay)|~~Telegram~~|**Yes**|Decrypted Marketplace Contents
 TPB Discord | [Server](https://discord.com/invite/leek)| - | **Yes** | ThePillagerBay Discord Server
 RobLauncher|[GitHub](https://github.com/OptiJuegos/RobLauncher/releases)|[GitHub](https://github.com/OptiJuegos/RobLauncher)|**Yes**|Collections of tools
-Mcappx|[Website](https://www.mcappx.com/)|Closed-source|**Yes**|A third-party game resource platform that focuses on providing all versions of Minecraft for Windows
+Mcappx|[Website](https://www.mcappx.com/)|\-|**Yes**|A third-party game resource platform that focuses on providing all versions of Minecraft for Windows
 AutoModificator|[GitHub](https://github.com/Max-RM/AutoModificator)|[GitHub](https://github.com/Max-RM/AutoModificator/releases)|**Yes**| Unlocking height limit and piston push limit
 Bedrock Launcher|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher/releases)|[GitHub](https://github.com/BedrockLauncher/BedrockLauncher)|**Yes**|Multi-version launcher for Minecraft with a good GUI
 Mc Persona|[PixelDrain](https://pixeldrain.com/u/gn9BuMTG)|[Telegram](https://t.me/c/2071756372/1758)|*Maybe*|Persona decryptor
-BlueCoin|[Telegram](https://t.me/archivebluecoin)|Closed-source|**Yes**|Decrypting Marketplace Content
+BlueCoin|[Telegram](https://t.me/archivebluecoin)|\-|**Yes**|Decrypting Marketplace Content
 Minecraft Bedrock Leaks|[Website](https://shytz.net/Minecraft-Leaks/Windows-Leaks)|\-|**Yes**|Minecraft: Bedrock Edition Development version leaks
 Minecraft DLC Archives|[Discord](https://discord.gg/eDpasTFmRr)|\-|**Yes**|Decrypted Marketplace Contents
 
 <div>
-  <!-- Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|Closed-source|**Yes**|Skinpack unlocker -->
+  <!-- Skin Pack Unlocker|[CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?f=38&t=90151)|\-|**Yes**|Skinpack unlocker -->
 </div>
