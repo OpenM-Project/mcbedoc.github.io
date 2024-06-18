@@ -2,7 +2,7 @@
 layout: default
 title: Table of Contents
 nav_exclude: false
-nav_order: 0.1
+nav_order: 1.1
 ---
 
 # Table of Contents
