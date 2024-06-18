@@ -8,8 +8,8 @@ nav_order: 1.1
 # Table of Contents
 
 * [Windows](/windows)
-  * [Minecraft for Windows](Windows/minecraft-for-windows/)
-  * [Minecraft Earth](Windows/minecraft-earth/)
+  * [Minecraft for Windows](/Windows/minecraft-for-windows/)
+  * [Minecraft Earth](/Windows/minecraft-earth/)
   * [Minecraft Education](/Windows/minecraft-education)
   * [Minecraft China](/Windows/minecraft-china)
   * [Minecraft Legends](/Windows/minecraft-legends/)
