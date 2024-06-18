@@ -38,6 +38,8 @@ nav_order: 1
 > * DLL Hooking: [Hooks](https://www.vmray.com/glossary/hooking/) the DLLs of MS Store.
 > * **DRC** - DLL Redirection for Cracking: Making Minecraft load Cracked DLLs without editing system files
 
+{: .important-title }
+> Dont know how to Download Minecraft? Check [**here**](/dl-mcfw10)
 
 Name | Download | Source code | Is it maintained? | Method
 ------ | ------ | ------ | ------| ------
