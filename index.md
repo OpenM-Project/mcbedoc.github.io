@@ -2,7 +2,7 @@
 layout: minimal
 title: Home
 nav_exclude: true
-description: "An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers"
+description: "An Ultimate Collection of Minecraft: Bedrock Edition Utilities, Tools & Unlockers"
 permalink: /
 ---
 
