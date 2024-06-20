@@ -1,3 +1,23 @@
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+# Moved to https://github.com/OpenM-Proj/mcdoc.github.io
+
+
+
+
+
+
+
+
+
 # <img src="https://raw.githubusercontent.com/MCBEDOC/mcbedoc.github.io/main/assets/images/MCBEDOC.webp"></img>
 
 MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
